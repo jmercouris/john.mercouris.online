@@ -2,3 +2,8 @@ environment
 env
 venv
 archive
+Makefile
+fabfile.py
+pelicanconf.py
+publishconf.py
+develop_server.sh
