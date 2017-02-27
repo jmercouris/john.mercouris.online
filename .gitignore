@@ -84,3 +84,4 @@ ENV/
 .ropeproject
 
 *.org
+theme/
