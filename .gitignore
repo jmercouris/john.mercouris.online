@@ -82,3 +82,5 @@ ENV/
 .spyderproject
 # Rope project settings
 .ropeproject
+
+*.org
