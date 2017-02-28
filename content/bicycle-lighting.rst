@@ -21,12 +21,9 @@ tires, water, and food; one of the requirements therefore is for a
 pannier rack. A pannier rack is necessary if you wish to carry any
 considerable load on your bicycle without getting exhausted.
 
+When I first purchased the bicycle it looked like the following:
 
-.. figure:: {filename}/images/IMG_3323.jpg
-    :class: pure-img
-
-    When I first purchased the bicycle it looked like the following:
-
+|IMG_3323|
 
 It had front and rear lights, splash guards, brakes, and a front/rear
 derailleur. It was optimally setup for commuting over a nice mixture of
@@ -38,10 +35,7 @@ Customization and Modification: Pannier Rack
 After finding a pannier rack that suited my needs, I installed it, and
 the bike looked like this:
 
-
-.. figure:: {filename}/images/IMG_3466.jpg
-    :class: pure-img
-
+|IMG_3466|
 
 As is evident from the above photo, the location of the rear light now
 presented a serious problem. The light would probably not be visible to
@@ -62,10 +56,7 @@ store and picked up several mounting materials: new wire to reach the
 new light location, zip ties for a tidy install, and electrical
 junctions to separate the wiring integrated on the pannier / bike frame.
 
-
-.. figure:: {filename}/images/IMG_3474.jpg
-    :class: pure-img
-
+|IMG_3474|
 
 I would also be using only a few tools for this entire process; my multi
 faced socket wrench, a knife, and my multi hex / flat / phillips tool.
@@ -76,36 +67,24 @@ Work Begins
 The first step involved flipping over the bike to make it easier to work
 on.
 
-
-.. figure:: {filename}/images/IMG_3473.jpg
-    :class: pure-img
-
+|IMG_3473|
 
 After flipping the bike, it was necessary to remove the rear wheel to
 gain easier access to the wiring and lighting system.
 
-
-.. figure:: {filename}/images/IMG_3477.jpg
-    :class: pure-img
-
+|IMG_3477|
 
 With the rear wheel now removed, I could easily set about removing the
 light:
 
-
-.. figure:: {filename}/images/IMG_3476.jpg
-    :class: pure-img
-
+|IMG_3476|
 
 After removing the old light, I discovered that on bicycles they simply
 use a type of tension fastener similar to speakers. You place the wire
 leads into the light enclosure and then depress a tab securing them in
 place.
 
-
-.. figure:: {filename}/images/IMG_3478.jpg
-    :class: pure-img
-
+|IMG_3478|
 
 Justification of the Pannier Bicycle Junction
 =============================================
@@ -125,10 +104,7 @@ bicycle via the power cable. To overcome this issue, the junction was
 placed between the pannier and bicycle. The junction can simply be
 loosened and the pannier/light assembly can be removed in one piece.
 
-
-.. figure:: {filename}/images/IMG_3480.jpg
-    :class: pure-img
-
+|IMG_3480|
 
 If the above was confusing, the above image may clarify.
 
@@ -136,27 +112,18 @@ If the above was confusing, the above image may clarify.
     wiring that I am using, but it is one of my favorite shades of
     green, so I really wanted to make it work.
 
-
-.. figure:: {filename}/images/IMG_3481.jpg
-    :class: pure-img
-
+|IMG_3481|
 
 Having removed the old lighting and brackets, I shortened the wire
 attached to the frame so that it would attach nicely to the interface.
 
-
-.. figure:: {filename}/images/IMG_3484.jpg
-    :class: pure-img
-
+|IMG_3484|
 
 In addition, the junctions as originally designed were shrouded in a way
 that inhibited screwdriver access. To circumvent this I shaved the top
 of them to allow for a broader width of flatheads to turn them.
 
-
-.. figure:: {filename}/images/IMG_3482.jpg
-    :class: pure-img
-
+|IMG_3482|
 
  
 
@@ -164,18 +131,12 @@ Having completed the junction between the bicycle and pannier, I was
 ready to mount the light. The light mounts simply with a few bolts and
 has an identical interface as the previous light.
 
-
-.. figure:: {filename}/images/IMG_3479.jpg
-    :class: pure-img
-
+|IMG_3479|
 
 Finally, with the light and wiring in place, I gave the front wheel
 dynamo a turn, and- light!
 
-
-.. figure:: {filename}/images/IMG_3483.jpg
-    :class: pure-img
-
+|IMG_3483|
 
 In the above picture, you can also see zip ties attaching the cabling to
 the pannier rack. This would normally make it impossible to remove the
@@ -185,18 +146,12 @@ without removing the zip ties.
 The Finished Product
 ====================
 
-
-.. figure:: {filename}/images/IMG_3485.jpg
-    :class: pure-img
-
+|IMG_3485|
 
 Here's a final photo of everything reinstalled and all the wiring
 securely zip tied. The install is completely stealthy and undetectable.
 
-
-.. figure:: {filename}/images/IMG_3486.jpg
-    :class: pure-img
-
+|IMG_3486|
 
 Here is a picture of the bicycle light outside in full daylight in
 standlicht mode (running on standby power when the dynamo is not
@@ -221,3 +176,36 @@ connection; it takes significant effort to line up the wires/securing
 screw.
 
 I hope you enjoyed this article, and thanks for reading!
+
+
+.. |IMG_3323| image:: {filename}/images/IMG_3323.jpg
+   :class: pure-img
+.. |IMG_3466| image:: {filename}/images/IMG_3466.jpg
+   :class: pure-img
+.. |IMG_3474| image:: {filename}/images/IMG_3474.jpg
+   :class: pure-img
+.. |IMG_3473| image:: {filename}/images/IMG_3473.jpg
+   :class: pure-img
+.. |IMG_3477| image:: {filename}/images/IMG_3477.jpg
+   :class: pure-img
+.. |IMG_3476| image:: {filename}/images/IMG_3476.jpg
+   :class: pure-img
+.. |IMG_3478| image:: {filename}/images/IMG_3478.jpg
+   :class: pure-img
+.. |IMG_3480| image:: {filename}/images/IMG_3480.jpg
+   :class: pure-img
+.. |IMG_3481| image:: {filename}/images/IMG_3481.jpg
+   :class: pure-img
+.. |IMG_3484| image:: {filename}/images/IMG_3484.jpg
+   :class: pure-img
+.. |IMG_3482| image:: {filename}/images/IMG_3482.jpg
+   :class: pure-img
+.. |IMG_3479| image:: {filename}/images/IMG_3479.jpg
+   :class: pure-img
+.. |IMG_3483| image:: {filename}/images/IMG_3483.jpg
+   :class: pure-img
+.. |IMG_3485| image:: {filename}/images/IMG_3485.jpg
+   :class: pure-img
+.. |IMG_3486| image:: {filename}/images/IMG_3486.jpg
+   :class: pure-img
+

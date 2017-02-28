@@ -14,10 +14,9 @@ the work you are doing in Latex in a buffer (usually to the right) of
 your Latex document. It looks like this:
 
 
-.. figure:: {filename}/images/Screen-Shot-2016-07-11-at-11.49.31.png
-    :class: pure-img
+|Screen-Shot-2016-07-11-at-11.49.31.png|
 
-    Latex raw text on the left, pdf output on the right.
+Latex raw text on the left, pdf output on the right.
 
 
 To use this functionality you need ghostscript, what ghostscript does
@@ -59,3 +58,6 @@ buffer (without opening a separate pane).
 
 
 Thanks for reading!
+
+.. |Screen-Shot-2016-07-11-at-11.49.31.png| image:: {filename}/images/Screen-Shot-2016-07-11-at-11.49.31.png
+   :class: pure-img
