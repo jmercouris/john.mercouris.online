@@ -1225,7 +1225,7 @@ bright, together we will live in the land of Milk & Honey. Together we
 must decrypt the Indx. We Must decrypt the Indx. Devote yourselves
 wholly to the task.*
 
- Immediately after I sent the transmission, I relied on Ex’l to flood
+Immediately after I sent the transmission, I relied on Ex’l to flood
 the communication channels with wave and wave of computational chunks.
 At first there was nothing. A complete silence over the colony.
 Literally nobody was moving. We feared that we stuck all of the members

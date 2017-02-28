@@ -43,18 +43,18 @@ The Development Journey
 The development of this project was not at all straightforward. It began
 simply with the purchase of a clock from inventables.com.
 
-|IMG\_2692|
+|IMG_2692|
 
 I wanted to figure out what makes it tick; literally. So I began
 disassembly and found out that actually the mechanism was relatively
 straightforward.
 
-|IMG\_2905|
+|IMG_2905|
 
 | I then began to take it apart and figure out how I was going to
   control the actuation of the motor. I found that I could separate the
   motor from the rest of the enclosure.
-| |IMG\_2925|
+| |IMG_2925|
 
 After separating the motor, a quick run with the multimeter confirmed
 that the quartz circuit underneath the motor was simply alternating the
@@ -67,11 +67,11 @@ Having discovered this, actuating the motor was a simple case of
 connecting leads to the motor and running them out of the clock
 enclosure, from there they could be manually controlled by an arduino.
 
-|IMG\_2926|
+|IMG_2926|
 
  
 
-|IMG\_2924|
+|IMG_2924|
 
 Here is quick video of the first attempts to get the motor to move.
 Unfortunately I had not supplied enough power to the motor and it was
@@ -90,7 +90,7 @@ clock with my modifications in place and am demonstrating normal
 movement. The only modification is that I am doing a full cycle instead
 of half steps like the original quartz circuit.
 
-http://youtu.be/kBwP5rOW\_es
+http://youtu.be/kBwP5rOW_es
 
 After having reassembled the clock, I began pushing the limits of the
 little motor seeing how far I could take it. The result is, impressively
@@ -103,7 +103,7 @@ significantly lackluster in comparison with its disassembled
 performance. The difference can most likely be attributed to friction in
 the closed assembly.
 
-http://youtu.be/2E1FBxHV\_SA
+http://youtu.be/2E1FBxHV_SA
 
 I've achieved a good speed with the clock and have managed to make it
 operate almost as quickly as it did disassembled. There were strange
@@ -135,7 +135,7 @@ Android device, and again, communicating through bluetooth.
 
 Finally after extensive research and deciding that the voice recognition
 had to be integrated into the clock; I found EasyVR. EasyVR is a great
-device available from \ http://www.veear.eu/products/easyvr/. I cannot
+device available from  http://www.veear.eu/products/easyvr/. I cannot
 recommend this product enough. After a few simple training sets with the
 Arduino plugged into my computer, I was able to implement voice
 recognition in an hour. The longest part of the implementation involved
@@ -143,7 +143,7 @@ configuring virtual box with Windows XP and guest additions (VR
 Commander (the training and configuration program) only operates in
 Windows).
 
-|IMG\_2690|
+|IMG_2690|
 
 The Final Product
 =================
@@ -528,33 +528,15 @@ I've also copied and pasted the files below for convenient reference.
     }
 
 
-.. |IMG\_2692| image:: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2692-1024x768.jpg
-   :class: alignnone size-large wp-image-166
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2692.jpg
-.. |IMG\_2905| image:: http://jmercouris.com/wp-content/uploads/2015/03/IMG_29051.jpg
-   :class: alignnone wp-image-169
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/03/IMG_29051.jpg
-.. |IMG\_2925| image:: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2925-1024x768.jpg
-   :class: alignnone size-large wp-image-175
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2925.jpg
-.. |IMG\_2926| image:: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2926-1024x768.jpg
-   :class: alignnone size-large wp-image-176
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2926.jpg
-.. |IMG\_2924| image:: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2924-1024x768.jpg
-   :class: alignnone size-large wp-image-177
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2924.jpg
-.. |IMG\_2690| image:: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2690.jpg
-   :class: alignnone wp-image-163
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/03/IMG_2690.jpg
+.. |IMG_2692| image:: {filename}/images/IMG_2692.jpg
+   :class: pure-img
+.. |IMG_2905| image:: {filename}/images/IMG_29051.jpg
+   :class: pure-img
+.. |IMG_2925| image:: {filename}/images/IMG_2925.jpg
+   :class: pure-img
+.. |IMG_2926| image:: {filename}/images/IMG_2926.jpg
+   :class: pure-img
+.. |IMG_2924| image:: {filename}/images/IMG_2924.jpg
+   :class: pure-img
+.. |IMG_2690| image:: {filename}/images/IMG_2690.jpg
+   :class: pure-img

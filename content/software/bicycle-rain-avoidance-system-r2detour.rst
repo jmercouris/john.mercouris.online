@@ -15,7 +15,7 @@ ran late and intermittently where I live. Unfortunately, it was also
 forecast to rain in Berlin, and I couldn't afford to get my laptop wet.
 This is nearby where we were to meetup- the weather doesn't look good:
 
-|thumb\_IMG\_3718\_1024|
+|thumb_IMG_3718_1024|
 
  
 
@@ -102,7 +102,7 @@ an image like this:
 
 If we increase the size of the image we can see this:
 
-|output|
+|output 1|
 
 As you can see there are significantly less colors (limited to a
 palette) and fewer data points to deal with. This should make processing
@@ -432,60 +432,30 @@ Extras
 Some snacks they served at the hackathon (peanut butter cookies with
 chocolate ice cream):
 
-|thumb\_IMG\_3721\_1024|
+|thumb_IMG_3721_1024|
 
 Some interesting Haribo gummy ice creams I had never seen before. They
 tasted vaguely of cotton candy.
 
-|thumb\_IMG\_3723\_1024|
+|thumb_IMG_3723_1024|
 
-.. |thumb\_IMG\_3718\_1024| image:: http://jmercouris.com/wp-content/uploads/2015/07/thumb_IMG_3718_1024-1024x768.jpg
-   :class: alignnone size-large wp-image-255
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/thumb_IMG_3718_1024.jpg
-.. |file| image:: http://jmercouris.com/wp-content/uploads/2015/07/file.gif
-   :class: alignnone size-full wp-image-247
-   :width: 640px
-   :height: 480px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/file.gif
-.. |output| image:: http://jmercouris.com/wp-content/uploads/2015/07/output.png
-   :class: alignnone size-full wp-image-248
-   :width: 50px
-   :height: 50px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/output.png
-.. |output| image:: http://jmercouris.com/wp-content/uploads/2015/07/output1.png
-   :class: alignnone size-full wp-image-249
-   :width: 480px
-   :height: 480px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/output1.png
-.. |Screen Shot 2015-06-21 at 13.15.01| image:: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-06-21-at-13.15.01-1024x654.png
-   :class: alignnone size-large wp-image-252
-   :width: 1024px
-   :height: 654px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-06-21-at-13.15.01.png
-.. |Screen Shot 2015-07-01 at 15.14.58| image:: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-01-at-15.14.58-1024x773.png
-   :class: alignnone size-large wp-image-253
-   :width: 1024px
-   :height: 773px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-01-at-15.14.58.png
-.. |Screen Shot 2015-07-01 at 15.15.09| image:: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-01-at-15.15.09-1024x773.png
-   :class: alignnone size-large wp-image-254
-   :width: 1024px
-   :height: 773px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-01-at-15.15.09.png
-.. |Screen Shot 2015-07-01 at 15.12.16| image:: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-01-at-15.12.16-1024x773.png
-   :class: alignnone size-large wp-image-257
-   :width: 1024px
-   :height: 773px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-01-at-15.12.16.png
-.. |thumb\_IMG\_3721\_1024| image:: http://jmercouris.com/wp-content/uploads/2015/07/thumb_IMG_3721_1024-1024x768.jpg
-   :class: alignnone size-large wp-image-269
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/thumb_IMG_3721_1024.jpg
-.. |thumb\_IMG\_3723\_1024| image:: http://jmercouris.com/wp-content/uploads/2015/07/thumb_IMG_3723_1024-1024x768.jpg
-   :class: alignnone size-large wp-image-270
-   :width: 1024px
-   :height: 768px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/thumb_IMG_3723_1024.jpg
+.. |thumb_IMG_3718_1024| image:: {filename}/images/thumb_IMG_3718_1024-1024x768.jpg
+   :class: pure-img
+.. |file| image:: {filename}/images/file.gif
+   :class: pure-img
+.. |output| image:: {filename}/images/output.png
+   :class: pure-img
+.. |output 1| image:: {filename}/images/output1.png
+   :class: pure-img
+.. |Screen Shot 2015-06-21 at 13.15.01| image:: {filename}/images/Screen-Shot-2015-06-21-at-13.15.01.png
+   :class: pure-img
+.. |Screen Shot 2015-07-01 at 15.14.58| image:: {filename}/images/Screen-Shot-2015-07-01-at-15.14.58.png
+   :class: pure-img
+.. |Screen Shot 2015-07-01 at 15.15.09| image:: {filename}/images/Screen-Shot-2015-07-01-at-15.15.09.png
+   :class: pure-img
+.. |Screen Shot 2015-07-01 at 15.12.16| image:: {filename}/images/Screen-Shot-2015-07-01-at-15.12.16.png
+   :class: pure-img
+.. |thumb_IMG_3721_1024| image:: {filename}/images/thumb_IMG_3721_1024.jpg
+   :class: pure-img
+.. |thumb_IMG_3723_1024| image:: {filename}/images/thumb_IMG_3723_1024.jpg
+   :class: pure-img

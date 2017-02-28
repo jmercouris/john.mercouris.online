@@ -28,7 +28,7 @@ sculptures around me.
 2. I am at a comedy club and I want to see the coolest performance ever
 there.
 
-2.A. I could open the Vidgeo app and look for the highest rated videos
+2.A. I could open the Vidgeo app and look for the highest rated videos
 at the location of the comedy club.
 
 3. I want to look for travel information, or get an idea of what a beach
@@ -38,17 +38,22 @@ in Miami is like.
 I am interested in. The video can give me a good feel for the atmosphere
 and appearance.
 
+
 Anyways, enough talk, let's get to some screenshots and explanations.
+
 
 This is the first view you see when you open the program and login for
 the first time:
 
+
 |iOS Simulator Screen shot Mar 26, 2014, 5.07.44 PM|
+
 
 This is your map view, from here you can browse, view, or record videos.
 Every Green/Red dot represents a video with either positive or negative
 reviews, the intensity of the green or the red indicates how positive or
 negative the reviews are.
+
 
 -  The bottom left button allows you to quickly jump to your point of
    reference.
@@ -58,7 +63,6 @@ negative the reviews are.
 -  The far bottom right filter allows you to filter videos based on
    keywords, whether your friends posted them, popularity, etc.
 
- 
 
 -  Then, starting from the top we can see several auxiliary buttons. The
    top left gear button represents the settings icon.
@@ -68,28 +72,31 @@ negative the reviews are.
 -  Finally, the top right home icon represents your user content page.
    My videos, friends videos, etc.
 
- 
 
 |iOS Simulator Screen shot Mar 26, 2014, 5.08.23 PM|
 
-This  is the user home page that they would get to by clicking the
+
+This is the user home page that they would get to by clicking the
 "home" icon on the map browse page. From here they can view their own
 videos, manage them, make them private, delete etc. They can also browse
 through their favorite videos.
 
- 
 
 |iOS Simulator Screen shot Mar 26, 2014, 5.10.47 PM|
+
 
 The above is an example of a video playback view. From here the user can
 perform a number of useful actions. They can go back to browsing, flag
 inappropriate content, share, or vote on their favorite videos.
 
+
 |iOS Simulator Screen shot Mar 26, 2014, 5.11.08 PM|
+
 
 This is the dialog that appears when a user tries to share a video. They
 can share the location, post to Facebook, or send to other friends who
 have Vidgeo.
+
 
 What appears to be a relatively simple application has revealed immense
 complexities in user design decisions and programming problems. For
@@ -99,23 +106,12 @@ intense feature scrutiny and extremely careful planning. Study of user
 habits, analysis of user needs and constantly cycling through the design
 phase. Finally, we were left with a most distilled and essential design.
 
-.. |iOS Simulator Screen shot Mar 26, 2014, 5.07.44 PM| image:: http://jmercouris.com/wp-content/uploads/2014/11/iOS-Simulator-Screen-shot-Mar-26-2014-5.07.44-PM-576x1024.png
-   :class: alignnone size-large wp-image-143
-   :width: 474px
-   :height: 842px
-   :target: http://jmercouris.com/wp-content/uploads/2014/11/iOS-Simulator-Screen-shot-Mar-26-2014-5.07.44-PM.png
-.. |iOS Simulator Screen shot Mar 26, 2014, 5.08.23 PM| image:: http://jmercouris.com/wp-content/uploads/2014/11/iOS-Simulator-Screen-shot-Mar-26-2014-5.08.23-PM-576x1024.png
-   :class: alignnone size-large wp-image-144
-   :width: 474px
-   :height: 842px
-   :target: http://jmercouris.com/wp-content/uploads/2014/11/iOS-Simulator-Screen-shot-Mar-26-2014-5.08.23-PM.png
-.. |iOS Simulator Screen shot Mar 26, 2014, 5.10.47 PM| image:: http://jmercouris.com/wp-content/uploads/2014/11/iOS-Simulator-Screen-shot-Mar-26-2014-5.10.47-PM-576x1024.png
-   :class: alignnone size-large wp-image-145
-   :width: 474px
-   :height: 842px
-   :target: http://jmercouris.com/wp-content/uploads/2014/11/iOS-Simulator-Screen-shot-Mar-26-2014-5.10.47-PM.png
-.. |iOS Simulator Screen shot Mar 26, 2014, 5.11.08 PM| image:: http://jmercouris.com/wp-content/uploads/2014/11/iOS-Simulator-Screen-shot-Mar-26-2014-5.11.08-PM-576x1024.png
-   :class: alignnone size-large wp-image-146
-   :width: 474px
-   :height: 842px
-   :target: http://jmercouris.com/wp-content/uploads/2014/11/iOS-Simulator-Screen-shot-Mar-26-2014-5.11.08-PM.png
+
+.. |iOS Simulator Screen shot Mar 26, 2014, 5.07.44 PM| image:: {filename}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.07.44-PM.png
+   :class: pure-img
+.. |iOS Simulator Screen shot Mar 26, 2014, 5.08.23 PM| image:: {filename}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.08.23-PM.png
+   :class: pure-img
+.. |iOS Simulator Screen shot Mar 26, 2014, 5.10.47 PM| image:: {filename}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.10.47-PM.png
+   :class: pure-img
+.. |iOS Simulator Screen shot Mar 26, 2014, 5.11.08 PM| image:: {filename}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.11.08-PM.png
+   :class: pure-img

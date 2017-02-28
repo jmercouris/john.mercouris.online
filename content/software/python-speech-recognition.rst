@@ -12,15 +12,12 @@ The Main Idea
 This Program was an exercise in using a Speech API to integrate Speech
 recognition into a desktop Python application.
 
-Source:
-~~~~~~~
-
-https://github.com/jmercouris/speech_recognition
+Source: https://github.com/jmercouris/speech_recognition
 
 Screenshot:
-~~~~~~~~~~~
 
-|window\_sample\_text|
+
+|window_sample_text|
 
 Development Story
 =================
@@ -42,13 +39,14 @@ The Speech Recognition Library
 ------------------------------
 
 The great Python library that I used is very aptly called
-speech\_recogntion.
+speech_recogntion.
 
 The project homepage is
-here: \ https://github.com/Uberi/speech_recognition.
+here: https://github.com/Uberi/speech_recognition.
 
 As a note of caution, if you are to install on OS X, you should install
 PortAudio is a dependency.
+
 
 ::
 
@@ -73,6 +71,7 @@ PortAudio is a dependency.
         except sr.RequestError as e:
             self.output = ("Uh oh! Couldn't request results from Google Speech Recognition service; {0}".format(e))
 
+
 Looking at the above code snippet you can see just how easy it is to use
 this library. It takes literally seconds to get started with it. No
 registering for keys on site, making key pairs, creating separate
@@ -95,10 +94,6 @@ was off the ground quickly with a complete demonstration.
 [video width="1920" height="1080"
 mp4="http://jmercouris.com/wp-content/uploads/2016/09/demonstration.mp4"][/video]
 
- 
 
-.. |window\_sample\_text| image:: http://jmercouris.com/wp-content/uploads/2016/09/window_sample_text.png
-   :class: alignnone size-full wp-image-402
-   :width: 512px
-   :height: 334px
-   :target: http://jmercouris.com/wp-content/uploads/2016/09/window_sample_text.png
+.. |window_sample_text| image:: {filename}/images/window_sample_text.png
+   :class: pure-img
