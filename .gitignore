@@ -85,3 +85,7 @@ ENV/
 
 *.org
 theme/
+
+*.pid
+
+output/
