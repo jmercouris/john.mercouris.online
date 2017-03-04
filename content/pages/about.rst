@@ -5,7 +5,9 @@ About
 :slug: about
 :status: published
 
-|Me|\ Hi, my name is John Mercouris. I'm a software engineer with a
+|Me|
+
+Hi, my name is John Mercouris. I'm a software engineer with a
 passion for developing high quality human interfaces. The projects and
 research I work on center around the idea that we can make interactions
 with our programs beautiful, and logically beautiful. To that end I

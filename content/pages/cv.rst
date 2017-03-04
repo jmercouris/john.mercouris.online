@@ -1,11 +1,11 @@
-Resume / CV
-###########
+CV
+################
 :date: 2016-09-27 06:36
 :author: jmercouris
-:slug: resume-cv
+:slug: cv
 
-    software developer with a passion for high quality interfaces and
-    products
+software developer with a passion for high quality interfaces and
+products
 
 EDUCATION
 ================================================================================
