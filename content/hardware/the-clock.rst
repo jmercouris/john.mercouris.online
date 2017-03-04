@@ -2,7 +2,8 @@ The Clock
 #########
 :date: 2015-03-23 05:00
 :author: jmercouris
-:category: Design, Hardware, Software
+:category: Hardware
+:tags: Design, Hardware, Software
 :slug: the-clock
 :status: published
 

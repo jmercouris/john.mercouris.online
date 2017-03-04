@@ -3,7 +3,7 @@ Hydra Window Manager
 :date: 2014-07-27 05:22
 :author: jmercouris
 :category: Design
-:tags: Design, featured, Hydra, Icons
+:tags: Design, Hydra, Icons
 :slug: hydra
 :status: published
 

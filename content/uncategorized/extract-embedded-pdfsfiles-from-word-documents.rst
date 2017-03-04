@@ -2,7 +2,7 @@ Extract Embedded PDFs/Files from Word Documents
 ###############################################
 :date: 2014-10-22 16:24
 :author: jmercouris
-:category: Software
+:category: Uncategorized
 :tags: embedded pdf, extract pdf, microsoft office
 :slug: extract-embedded-pdfsfiles-from-word-documents
 :status: published

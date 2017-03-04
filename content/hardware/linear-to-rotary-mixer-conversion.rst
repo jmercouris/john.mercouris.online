@@ -2,7 +2,7 @@ Linear to Rotary Mixer Conversion
 #################################
 :date: 2014-04-04 22:01
 :author: jmercouris
-:category: Hardware, Music
+:category: Hardware
 :tags: featured
 :slug: linear-to-rotary-mixer-conversion
 :status: published

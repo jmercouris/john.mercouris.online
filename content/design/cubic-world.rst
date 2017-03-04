@@ -2,7 +2,7 @@ Cubic World
 ###########
 :date: 2015-08-23 10:47
 :author: jmercouris
-:category: Design, Uncategorized
+:category: Design
 :slug: cubic-world
 :status: published
 

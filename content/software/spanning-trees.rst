@@ -2,7 +2,7 @@ Spanning Trees
 ##############
 :date: 2016-04-08 21:05
 :author: jmercouris
-:category: Software, Uncategorized
+:category: Software
 :slug: spanning-trees
 :status: published
 
