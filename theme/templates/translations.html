@@ -1,0 +1,10 @@
+{% macro translations_for(article) %}
+{% if article.translations %}
+    <div class="lang">
+      Lang:
+{% for translation in article.translations %}
+      <a class="pure-button" href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
+{% endfor %}
+    </div>
+{% endif %}
+{% endmacro %}

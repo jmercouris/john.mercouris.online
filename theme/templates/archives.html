@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<article class="archives">
+  <header>
+    {% block content_title %}<h1>Archives - {{ SITENAME }}</h1>{% endblock %}
+  </header>
+  <section class="contents">
+    <table class="archive pure-table pure-table-striped">
+{% for article in dates %}
+      <tr>
+        <td class="title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+        <td class="on_create"><time datetime="{{ article.date }}">{{ article.locale_date }}</time></td>
+      </tr>
+{% endfor %}
+    </table>
+  </section>
+</article>
+{% endblock %}

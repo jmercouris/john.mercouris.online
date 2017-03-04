@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block meta %}{{ super() }}  <meta name="author" content="{{ AUTHOR }}">
+{% endblock %}
+{% block opengraph %}{{ super() }}  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ SITENAME }}">
+  <meta property="og:url" content="{{ SITEURL }}">
+  <meta property="og:description" content="{{ SITENAME }}">
+{% if OPEN_GRAPH_IMAGE %}
+  <meta property="og:image" content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}">
+{% endif %}
+{% endblock %}
+{% block content %}
+{% block content_title %}{% endblock %}
+{% if articles %}
+{%     for article in (articles_page.object_list if articles_page else articles) %}
+<article class="index">
+  <header>
+    <h1><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
+    <div class="article-info">
+      <div class="pure-g">
+        <div class="pure-u-1 pure-u-md-1-2 on-create">{% if SHOW_DATE_MODIFIED %}Created: {% endif %}<time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></div>
+{%         if SHOW_DATE_MODIFIED %}
+        <div class="pure-u-1 pure-u-md-1-2 on-update">Updated: <time datetime="{{ article.modified.isoformat() }}">{{ article.locale_modified }}</time></div>
+{%         endif %}
+{%         if SHOW_ARTICLE_AUTHOR %}
+{%             if article.author %}
+        <div class="pure-u-1 author">By <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a></div>
+{%             endif %}
+{%         endif %}
+      </div>
+      <div class="category">Category: <a class="pure-button" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
+      <div class="tags">Tags:
+{%         for tag in article.tags %}
+        <a class="pure-button" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+{%         endfor %}
+      </div>
+    </div>
+  </header>
+  <section class="contents">
+    <p>{{ article.summary }}</p>
+  </section>
+</article>
+{%     endfor %}
+{% endif %}
+{% include 'inc/pagination.html' %}
+{% endblock content %}

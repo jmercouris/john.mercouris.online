@@ -1,0 +1,156 @@
+#layout {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+/* remove underline from links */
+a {
+    text-decoration: none;
+}
+
+/* set links to pleasant blue */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: #2b9aef
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue';
+    font-weight: 500;
+}
+
+h1 {
+    text-transform: lowercase;
+    color: #2b9aef;
+    font-size: 48px;
+}
+
+code, tt, .literal {
+    font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
+    font-size: 1em;
+    color: #a00;
+    background-color: #f8f8f8;
+    padding: 0.2em;
+}
+
+#main p {
+    margin: 1.5em 0;
+    line-height: 1.5em;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    -ms-text-justify: inter-ideograph;
+}
+
+#main a:hover, #sidebar a:hover, #footer a:hover {
+    color: #a00;
+}
+
+header.article {
+    padding-bottom:30px;
+}
+
+h1.article {
+    color: #2b9aef;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+table.archive {
+    width:75%;
+}
+
+/* article info */
+.article-info {
+    font-size: 90%;
+    color: #bbb;
+}
+
+.article-info div {
+    margin: 0.2em 0;
+}
+
+.article-info .category a, .article-info .tags a, .article-info .lang a {
+    font-size: 90%;
+    line-height: 80%;
+}
+
+.article-info a,
+.article-info a:link
+.article-info a:visited,
+.article-info a:active {
+    color: #2b9aef
+}
+
+/*------------------------------
+ * menu
+ *------------------------------*/
+#menu {
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.pure-menu-link {
+    padding: .5em .5em;
+}
+
+.pure-menu {
+    font-family: 'Helvetica Neue';
+    font-size: 18px;
+}
+
+.pure-menu-heading {
+    color: #2b9aef;
+    text-transform: lowercase;
+    font-weight: bold;
+}
+
+
+/*------------------------------
+ * footer
+ *------------------------------*/
+#footer {
+    margin: 2em;
+    padding-top: 1em;
+    color: #ccc;
+    border-top: 1px solid #ccc;
+    font-size: 85%
+}
+#footer a,
+#footer a:link
+#footer a:visited,
+#footer a:active {
+    color: #0052CC;
+}
+
+
+/*------------------------------
+ * pages
+ *------------------------------*/
+section.contents a,
+section.contents a:link
+section.contents a:visited,
+section.contents a:active {
+    color: #0052CC;
+}
+
+.section {
+    margin: 0.8em 0;
+}
+
+/* disqus comments */
+#comments {
+    margin-top: 3em;
+    padding: 0 1em;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* code highlight */
+.highlight pre {
+    font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
+    border: 1px solid #333;
+    padding: 0.5em;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}

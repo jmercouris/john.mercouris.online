@@ -1,0 +1,5 @@
+{% set year = '' %}
+{% if articles %}
+{%     set year = articles[0].date.strftime('%Y') %}
+{% endif %}
+  copyright &copy; {{ year }} {{ AUTHOR }} &nbsp;&nbsp;-&nbsp;&nbsp; jmercouris.com

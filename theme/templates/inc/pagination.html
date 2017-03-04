@@ -1,0 +1,17 @@
+{% if articles_page and articles_paginator.num_pages > 1 %}
+<div id="pagination">
+{%     if articles_page.has_previous() %}
+  <a class="pure-button" href="{{ SITEURL }}/{{ articles_previous_page.url }}">&laquo;</a>
+{%     else %}
+  <a class="pure-button pure-button-disabled" href="#">&laquo;</a>
+{%     endif %}
+{%     for p in range(1, 1+articles_paginator.num_pages) %}
+  <a class="pure-button{% if p == articles_page.number %} pure-button-active pure-button-primary{% endif %}" href="{{ SITEURL }}/{{ page_name }}{{ p if p > 1 else '' }}.html">{{ p }}</a>
+{%     endfor %}
+{%     if articles_page.has_next() %}
+  <a class="pure-button" href="{{ SITEURL }}/{{ articles_next_page.url }}">&raquo;</a>
+{%     else %}
+  <a class="pure-button pure-button-disabled" href="#">&raquo;</a>
+{%     endif %}
+</div>
+{% endif %}

@@ -1,0 +1,30 @@
+<div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
+  <ul class="pure-menu-list">
+    <li class="pure-menu-item">
+      <a href="/" class="pure-menu-heading pure-menu-link">{% filter lower %} {{ SITENAME }} {% endfilter %}</a>
+    </li>
+    {% for title, link in MENUITEMS %}
+    <li class="pure-menu-item"><a href="{{ link }}" class="pure-menu-link">{{ title }}</a></li>
+    {% endfor %}
+
+    {% if DISPLAY_CATEGORIES_ON_MENU %}
+    {%     for cat, null in categories %}
+    <li class="pure-menu-item{% if cat == category %} pure-menu-selected{% endif %}">
+      <a href="{{ SITEURL }}/{{ cat.url }}" class="pure-menu-link">{% filter lower %} {{ cat }} {% endfilter %}</a>
+    </li>
+    <li class="pure-menu-item">/</li>
+    {%     endfor %}
+    {% endif %}
+
+    {% if DISPLAY_PAGES_ON_MENU %}
+    {%     for p in pages %}
+    <li class="pure-menu-item{% if p == page %} pure-menu-selected{% endif %}">
+      <a href="{{ SITEURL }}/{{ p.url }}" class="pure-menu-link">{% filter lower %} {{ p.menulabel | default(p.title) }} {% endfilter %}</a>
+    </li>
+    <li class="pure-menu-item">/</li>
+    {%     endfor %}
+    {% endif %}
+
+  </ul>
+</div>
+

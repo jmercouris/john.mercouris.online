@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Categories - {{ SITENAME }}{% endblock %}
+{% block meta %}{{ super() }}  <meta name="author" content="{{ AUTHOR }}">
+{% endblock %}
+{% block content %}
+{% block content_title %}<h1>Categories</h1>{% endblock %}
+<article class="pure-g">
+{% for category, articles in categories %}
+  <div class="pure-u-1-2 pure-u-md-1-5">
+    <a href="{{ SITEURL }}/{{ category.url }}">
+      <div class="tag-cat-button">
+        <div>{{ category }}</div>
+        <div class="article-count">({{ articles | count }})</div>
+      </div>
+    </a>
+  </div>
+{% endfor %}
+</article>
+{% endblock %}

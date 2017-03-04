@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+{% block meta %}
+{{ super() }}{% if page.author %}  <meta name="author" content="{{ page.author }}">
+{% else %}
+  <meta name="author" content="{{ AUTHOR }}">
+{% endif %}
+{% if page.summary %}
+  <meta name="description" content="{{ page.summary | striptags | escape }}">
+{% endif %}
+{% endblock %}
+{% block opengraph %}
+{{ super() }}  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ page.title | striptags | escape }}">
+  <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}">
+{% if page.summary %}
+  <meta property="og:description" content="{{ page.summary | striptags | escape }}">
+{% endif %}
+{% if page.og_image %}
+  <meta property="og:image" content="{{ SITEURL }}/{{ page.og_image }}">
+{% elif OPEN_GRAPH_IMAGE %}
+  <meta property="og:image" content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}">
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<article>
+<header>
+  <h1>{{ page.title }}</h1>
+  <div class="article-info">
+{% import 'translations.html' as translations with context %}
+{{ translations.translations_for(page) }}
+{% if page.modified %}
+    <div class="on-update">Updated: <time datetime="{{ page.modified.isoformat() }}">{{ page.locale_modified }}</time></div>
+{% endif %}
+{% if SHOW_PAGE_AUTHOR %}
+{%     if page.author %}
+    <div class="author">By <a href="{{ SITEURL }}/{{ page.author.url }}">{{ page.author }}</a></div>
+{%     endif %}
+{% endif %}
+  </div>
+</header>
+<section class="contents">
+{{ page.content }}
+</section>
+{% include 'inc/disqus.html' %}
+</article>
+{% endblock %}
