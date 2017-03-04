@@ -17,8 +17,6 @@ This is nearby where we were to meetup- the weather doesn't look good:
 
 |thumb_IMG_3718_1024|
 
- 
-
 From my basic meteorology knowledge, I knew that when prediction is made
 for a percent likelihood of rain for a particular city (e.g. 70% chance
 of rain over Chicago), what they mean is NOT that the meteorologist is
@@ -439,7 +437,7 @@ tasted vaguely of cotton candy.
 
 |thumb_IMG_3723_1024|
 
-.. |thumb_IMG_3718_1024| image:: {filename}/images/thumb_IMG_3718_1024-1024x768.jpg
+.. |thumb_IMG_3718_1024| image:: {filename}/images/thumb_IMG_3718_1024.jpg
    :class: pure-img
 .. |file| image:: {filename}/images/file.gif
    :class: pure-img
