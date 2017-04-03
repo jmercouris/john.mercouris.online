@@ -11,11 +11,7 @@ What is it?
 
 Emacs centered-point mode is a mode that centers the point within an
 Emacs buffer. This gives you good visual context when you are scrolling
-to avoid jarring bumps as you work on a piece of code. A brief
-demonstration below will help clarify:
-
-[video width="602" height="518"
-mp4="http://jmercouris.com/wp-content/uploads/2016/04/Recording.mp4"][/video]
+to avoid jarring bumps as you work on a piece of code.
 
 Where can I get it?
 ===================
@@ -68,5 +64,3 @@ then going through the Emacs minor-mode tutorial, then referencing the
 Elisp resources until you can finally shape what you need. Looking at my
 code should even be enough of a simple example to build off and get
 started. Good luck! Thanks for reading, I hope you enjoyed it!
-
- 

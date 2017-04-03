@@ -12,9 +12,9 @@ What is it?
 
 Program used to control the volume in a Curses like interface for OSX.
 
-[caption id="attachment\_335" align="alignnone" width="640"]\ |output|
-Demonstration of setting the volume via the terminal based
-GUI.[/caption]
+|output|
+
+Demonstration of setting the volume via the terminal based GUI.
 
 Tell me more!
 -------------
@@ -62,33 +62,6 @@ The Original Method
 
 The original method looks like this:
 
-.. raw:: html
-
-   <div class="main-content">
-
-.. raw:: html
-
-   <div id="js-repo-pjax-container"
-   class="context-loader-container js-repo-nav-next"
-   data-pjax-container="">
-
-.. raw:: html
-
-   <div class="container new-discussion-timeline experiment-repo-nav">
-
-.. raw:: html
-
-   <div class="repository-content">
-
-.. raw:: html
-
-   <div id="readme"
-   class="boxed-group flush clearfix announce instapaper_body md">
-
-.. raw:: html
-
-   <article class="markdown-body entry-content">
-
 -  Get volume
 
    -  Echos a number from 0 to 100
@@ -108,30 +81,6 @@ The original method looks like this:
 
    -  Where 'true' can be 'true' or 'false'
    -  ``osascript -e 'set volume output muted true'``
-
-.. raw:: html
-
-   </article>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
 
 Src: \ https://coderwall.com/p/22p0ja/set-get-osx-volume-mute-from-the-command-line
 
@@ -170,9 +119,9 @@ Knowing this, the dream was to eventually develop something similar to
 alsamixer within the console. It always seemed super great to me that
 you could do literally everything from a terminal if you wanted.
 
-[caption id="attachment\_347" align="alignnone"
-width="720"]\ |https://en.wikipedia.org/wiki/Alsamixer#/media/File:Alsamixer.png|
-https://en.wikipedia.org/wiki/Alsamixer#/media/File:Alsamixer.png[/caption]
+|https://en.wikipedia.org/wiki/Alsamixer#/media/File:Alsamixer.png|
+
+https://en.wikipedia.org/wiki/Alsamixer#/media/File:Alsamixer.png
 
 This was a great interface, but it was overkill for what I was trying to
 do. Within applescript you are very limited in how you may manipulate
@@ -275,29 +224,19 @@ documented!
 What does it look like?
 =======================
 
-[caption id="attachment\_329" align="alignnone" width="682"]\ |Screen
-Shot 2015-12-05 at 18.38.09| Changing the output volume (black
-bar)[/caption]
+|Screen Shot 2015-12-05 at 18.38.09|
 
- 
+Changing the output volume (black bar)
 
-[caption id="attachment\_330" align="alignnone" width="682"]\ |Screen
-Shot 2015-12-05 at 18.38.17| Changing the input volume (gray
-bar)[/caption]
+|Screen Shot 2015-12-05 at 18.38.17|
 
- 
+Changing the input volume (gray bar)
 
-[caption id="attachment\_331" align="alignnone" width="682"]\ |Screen
-Shot 2015-12-05 at 18.39.12| Demonstrating the command line argument
-functionality available[/caption]
 
- 
+|Screen Shot 2015-12-05 at 18.39.12|
 
-Looks good on other terminals too!
-==================================
-
-|Screen Shot 2015-12-05 at 18.49.46| |Screen Shot 2015-12-05 at
-18.49.48| |Screen Shot 2015-12-05 at 18.49.50|
+Demonstrating the command line argument
+functionality available
 
 Thanks for reading!
 ===================
@@ -305,45 +244,20 @@ Thanks for reading!
 I hope you enjoyed reading this article, and maybe you can also enjoy
 using the program yourself!
 
- 
 
-.. |output| image:: http://jmercouris.com/wp-content/uploads/2015/12/output.gif
-   :class: wp-image-335 size-full
-   :width: 640px
-   :height: 420px
-   :target: http://jmercouris.com/wp-content/uploads/2015/12/output.gif
-.. |https://en.wikipedia.org/wiki/Alsamixer#/media/File:Alsamixer.png| image:: http://jmercouris.com/wp-content/uploads/2015/12/Alsamixer.png
-   :class: size-full wp-image-347
-   :width: 720px
-   :height: 432px
-   :target: http://jmercouris.com/wp-content/uploads/2015/12/Alsamixer.png
-.. |Screen Shot 2015-12-05 at 18.38.09| image:: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.38.09.png
-   :class: wp-image-329 size-full
-   :width: 682px
-   :height: 562px
-   :target: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.38.09.png
-.. |Screen Shot 2015-12-05 at 18.38.17| image:: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.38.17.png
-   :class: wp-image-330 size-full
-   :width: 682px
-   :height: 562px
-   :target: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.38.17.png
-.. |Screen Shot 2015-12-05 at 18.39.12| image:: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.39.12.png
-   :class: wp-image-331 size-full
-   :width: 682px
-   :height: 562px
-   :target: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.39.12.png
-.. |Screen Shot 2015-12-05 at 18.49.46| image:: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.49.46-300x210.png
-   :class: alignnone wp-image-340 size-medium
-   :width: 300px
-   :height: 210px
-   :target: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.49.46.png
-.. |Screen Shot 2015-12-05 at 18.49.48| image:: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.49.48-300x210.png
-   :class: alignnone wp-image-339 size-medium
-   :width: 300px
-   :height: 210px
-   :target: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.49.48.png
-.. |Screen Shot 2015-12-05 at 18.49.50| image:: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.49.50-300x210.png
-   :class: alignnone wp-image-338 size-medium
-   :width: 300px
-   :height: 210px
-   :target: http://jmercouris.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-05-at-18.49.50.png
+.. |output| image:: {filename}/images/output.gif
+   :class: pure-img
+.. |https://en.wikipedia.org/wiki/Alsamixer#/media/File:Alsamixer.png| image:: {filename}/images/Alsamixer.png
+   :class: pure-img
+.. |Screen Shot 2015-12-05 at 18.38.09| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.38.09.png
+   :class: pure-img
+.. |Screen Shot 2015-12-05 at 18.38.17| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.38.17.png
+   :class: pure-img
+.. |Screen Shot 2015-12-05 at 18.39.12| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.39.12.png
+   :class: pure-img
+.. |Screen Shot 2015-12-05 at 18.49.46| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.49.46png
+   :class: pure-img
+.. |Screen Shot 2015-12-05 at 18.49.48| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.49.48.png
+   :class: pure-img
+.. |Screen Shot 2015-12-05 at 18.49.50| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.49.50.png
+   :class: pure-img
