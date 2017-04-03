@@ -16,7 +16,6 @@ Source: https://github.com/jmercouris/speech_recognition
 
 Screenshot:
 
-
 |window_sample_text|
 
 Development Story
@@ -90,10 +89,6 @@ Demonstration
 
 Finally, with a few simple lines of code joining everything together, I
 was off the ground quickly with a complete demonstration.
-
-[video width="1920" height="1080"
-mp4="http://jmercouris.com/wp-content/uploads/2016/09/demonstration.mp4"][/video]
-
 
 .. |window_sample_text| image:: {filename}/images/window_sample_text.png
    :class: pure-img
