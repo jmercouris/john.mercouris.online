@@ -106,24 +106,17 @@ good retention),
 
 Best of luck!
 
-.. |Duolingo Browser| image:: http://jmercouris.com/wp-content/uploads/2014/04/IMG_2863-576x1024.png
+.. |Duolingo Browser| image:: {filename}/images/IMG_2863.png
    :class: pure-img
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/IMG_2863.png
-.. |Duolingo Lesson Topics| image:: http://jmercouris.com/wp-content/uploads/2014/04/IMG_2864-576x1024.png
+.. |Duolingo Lesson Topics| image:: {filename}/images/IMG_2864.png
    :class: pure-img
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/IMG_2864.png
-.. |Lesson Example| image:: http://jmercouris.com/wp-content/uploads/2014/04/IMG_2865-576x1024.png
+.. |Lesson Example| image:: {filename}/images/IMG_2865.png
    :class: pure-img
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/IMG_2865.png
-.. |Deck View| image:: http://jmercouris.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-08-at-11.03.34-PM.png
+.. |Deck View| image:: {filename}/images/Screen-Shot-2014-04-08-at-11.03.34-PM.png
    :class: pure-img
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-08-at-11.03.34-PM.png
-.. |Flash Card| image:: http://jmercouris.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-08-at-11.05.45-PM.png
+.. |Flash Card| image:: {filename}/images/Screen-Shot-2014-04-08-at-11.05.45-PM.png
    :class: pure-img
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-08-at-11.05.45-PM.png
-.. |Statistics| image:: http://jmercouris.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-08-at-11.03.49-PM.png
+.. |Statistics| image:: {filename}/images/Screen-Shot-2014-04-08-at-11.03.49-PM.png
    :class: pure-img
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-08-at-11.03.49-PM.png
-.. |Card Browser| image:: http://jmercouris.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-08-at-11.04.08-PM.png
+.. |Card Browser| image:: {filename}/images/Screen-Shot-2014-04-08-at-11.04.08-PM.png
    :class: pure-img
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-08-at-11.04.08-PM.png
