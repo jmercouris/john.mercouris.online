@@ -13,10 +13,9 @@ merged the audio channels between two sources. They had a distinct
 sound, color, and their rotary control allowed for very smooth and soft
 transitions between tracks.
 
-[caption id="attachment\_56" align="alignnone" width="300"]\ |Credit:
-http://www.inthemix.com.au/forum/showthread.php?p=394977387#post394977387|
-Credit:
-http://www.inthemix.com.au/forum/showthread.php?p=394977387#post394977387[/caption]
+|Bozak Mixer|
+
+Credit: http://www.inthemix.com.au/forum/showthread.php?p=394977387#post394977387
 
 This style of composition has gone way to the development of Linear
 fader mixers. These new mixing boards allowed for faster cuts and
@@ -28,8 +27,9 @@ digital mixer.
 
 My mixer of choice was my Denon DNX-1500.
 
-[caption id="attachment\_57" align="alignnone" width="300"]\ |Original
-Trim with Linear Faders| Original Trim with Linear Faders[/caption]
+|Original Trim with Linear Faders|
+
+Original Trim with Linear Faders
 
 I began by first taking apart the mixer and measuring the resistance of
 the Linear Faders. The Linear Faders work in the digital system by
@@ -50,8 +50,9 @@ range. This gave me approximately a 10k ohm resistance range.
 After replacing the rotary potentiometers into the slots of the linear
 potentiometers I had something like this.
 
-[caption id="attachment\_58" align="alignnone" width="300"]\ |Prototype
-Phase| Prototype Phase[/caption]
+|Prototype Phase|
+
+Prototype Phase
 
 I tested them out and my mixer was immediately shutting off upon the
 increase of volume. I found out that while normally a potentiometer
@@ -60,9 +61,9 @@ special case of being used as control for volume, there is direction, so
 after switching the pins, I was able to get the system working properly.
 I tidied up the wires and tried again.
 
-[caption id="attachment\_59" align="alignnone" width="300"]\ |Tided up
-wires and ready for reinstall| Tided up wires and ready for
-reinstall[/caption]
+|Tided up wires and ready for reinstall|
+
+Tided up wires and ready for reinstall
 
 After verifying that the new wire order on the chips worked, I went
 ahead and cleaned up the connections. Resoldered everything and made
@@ -72,8 +73,7 @@ metal inside the mixer.
 
 The final project looks like this!
 
-[caption id="attachment\_60" align="alignnone" width="300"]\ |Final
-Product!| Final Product![/caption]
+|Final Product|
 
 Final Thoughts: In the future when doing this modification to a new or
 different mixer of mine, I would like to print my own miniaturized PCBs
@@ -82,7 +82,6 @@ can be soldered directly to the board without the use of leads. I also
 would like to take more pictures next time, as I didn't document nearly
 as many things as I could have.
 
- 
 
 If you're looking to do this to your own mixer, the process is roughly
 the same.
@@ -95,30 +94,18 @@ the same.
    the linear potentiometer setup
 #. Enjoy your new smooth rotary mixer!
 
- 
-
-.. |Credit: http://www.inthemix.com.au/forum/showthread.php?p=394977387#post394977387| image:: http://jmercouris.com/wp-content/uploads/2014/04/bozak-300x198.jpg
-   :class: size-medium wp-image-56
-   :width: 300px
-   :height: 198px
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/bozak.jpg
-.. |Original Trim with Linear Faders| image:: http://jmercouris.com/wp-content/uploads/2014/04/IMG_0115-300x225.jpg
-   :class: size-medium wp-image-57
-   :width: 300px
-   :height: 225px
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/IMG_0115.jpg
-.. |Prototype Phase| image:: http://jmercouris.com/wp-content/uploads/2014/04/IMG_1836-300x225.jpg
-   :class: size-medium wp-image-58
-   :width: 300px
-   :height: 225px
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/IMG_1836.jpg
-.. |Tided up wires and ready for reinstall| image:: http://jmercouris.com/wp-content/uploads/2014/04/IMG_1843-300x225.jpg
-   :class: size-medium wp-image-59
-   :width: 300px
-   :height: 225px
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/IMG_1843.jpg
-.. |Final Product!| image:: http://jmercouris.com/wp-content/uploads/2014/04/IMG_1844-300x225.jpg
-   :class: size-medium wp-image-60
-   :width: 300px
-   :height: 225px
-   :target: http://jmercouris.com/wp-content/uploads/2014/04/IMG_1844.jpg
+.. |Bozak Mixer| image:: {filename}/images/bozak.jpg
+   :class: pure-img
+   :target: {filename}/images/bozak.jpg
+.. |Original Trim with Linear Faders| image:: {filename}/images/IMG_0115.jpg
+   :class: pure-img
+   :target: {filename}/images/IMG_0115.jpg
+.. |Prototype Phase| image:: {filename}/images/IMG_1836.jpg
+   :class: pure-img
+   :target: {filename}/images/IMG_1836.jpg
+.. |Tided up wires and ready for reinstall| image:: {filename}/images/IMG_1843.jpg
+   :class: pure-img
+   :target: {filename}/images/IMG_1843.jpg
+.. |Final Product| image:: {filename}/images/IMG_1844.jpg
+   :class: pure-img
+   :target: {filename}/images/IMG_1844.jpg
