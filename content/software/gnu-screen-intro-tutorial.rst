@@ -155,23 +155,11 @@ https://help.ubuntu.com/community/Screen
 
 http://www.koerner.in/2012/03/gnu-screen-quick-reference/
 
-.. |Screen Shot 2014-06-23 at 9.33.22 PM| image:: http://jmercouris.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-23-at-9.33.22-PM.png
-   :class: alignnone size-full wp-image-96
-   :width: 604px
-   :height: 456px
-   :target: http://jmercouris.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-23-at-9.33.22-PM.png
-.. |Screen Shot 2014-06-23 at 9.37.12 PM| image:: http://jmercouris.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-23-at-9.37.12-PM.png
-   :class: alignnone size-full wp-image-97
-   :width: 604px
-   :height: 456px
-   :target: http://jmercouris.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-23-at-9.37.12-PM.png
-.. |Screen Shot 2014-06-23 at 9.38.06 PM| image:: http://jmercouris.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-23-at-9.38.06-PM.png
-   :class: alignnone size-full wp-image-98
-   :width: 604px
-   :height: 456px
-   :target: http://jmercouris.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-23-at-9.38.06-PM.png
-.. |Screen Shot 2014-06-23 at 9.40.17 PM| image:: http://jmercouris.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-23-at-9.40.17-PM.png
-   :class: alignnone size-full wp-image-99
-   :width: 604px
-   :height: 456px
-   :target: http://jmercouris.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-23-at-9.40.17-PM.png
+.. |Screen Shot 2014-06-23 at 9.33.22 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.33.22-PM.png
+   :class: pure-img
+.. |Screen Shot 2014-06-23 at 9.37.12 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.37.12-PM.png
+   :class: pure-img
+.. |Screen Shot 2014-06-23 at 9.38.06 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.38.06-PM.png
+   :class: pure-img
+.. |Screen Shot 2014-06-23 at 9.40.17 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.40.17-PM.png
+   :class: pure-img
