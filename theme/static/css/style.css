@@ -3,6 +3,18 @@
     margin-right: 45px;
 }
 
+#root {
+    max-width:110ch;
+    background-color:white;
+    padding-right: 10ch;
+}
+
+table.archive {
+
+    width:100%
+
+}
+
 /* remove underline from links */
 a {
     text-decoration: none;
@@ -52,10 +64,7 @@ h1.article {
     color: #2b9aef;
     padding-bottom: 0px;
     margin-bottom: 0px;
-}
-
-table.archive {
-    width:75%;
+    margin-top: 0px;
 }
 
 /* article info */

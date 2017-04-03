@@ -13,6 +13,10 @@ can be used as a study, relaxation, or focus aid.  While it is also
 meant as a tool for user's to study with, efforts are also made to
 provide attribution to the original music creators.
 
+
+.. youtube:: Ma1ubpNMhgA
+
+
 Relaxing deep house study music.
 
 | Tracklist:

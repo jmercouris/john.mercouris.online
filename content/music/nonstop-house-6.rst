@@ -7,9 +7,12 @@ Nonstop House 6
 :slug: nonstop-house-6
 :status: published
 
-| 
-| Chill; Relax; Study. A nonstop house mix full of high quality relaxing
-  tracks- enjoy.
+Chill; Relax; Study. A nonstop house mix full of high quality relaxing
+tracks- enjoy.
+
+
+.. youtube:: gL-jhytUIHE
+
 
 | Tracklist:
 | Lovely Paradise - Diephius

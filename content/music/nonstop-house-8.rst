@@ -7,10 +7,11 @@ Nonstop House 8
 :slug: nonstop-house-8
 :status: published
 
-| 
-|  
-
 A high quality, smooth deep house mix for your enjoyment.
+
+
+.. youtube:: MKUOd6UVOlc
+
 
 | Tracklist:
 | When I think of You - Funkstar Deluxe ft. The Crickets

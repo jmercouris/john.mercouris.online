@@ -7,10 +7,11 @@ Nonstop Lounge 7
 :slug: nonstop-lounge-7
 :status: published
 
-| 
-|  
-
 A collection of some of my favorite deep lounge. Enjoy & relax.
+
+
+.. youtube:: 2biSRK6OVH8
+
 
 | Tracklist:
 | Estate - Phonorama

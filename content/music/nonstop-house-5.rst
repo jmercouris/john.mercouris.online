@@ -7,10 +7,12 @@ Nonstop House 5
 :slug: nonstop-house-5
 :status: published
 
-| 
-|  
 
 Study, relax, and chill with this smooth deep house mix.
+
+
+.. youtube:: Npb9wnupbJ8
+
 
 | Tracklist:
 | Yogando - Club Camarillo

@@ -7,11 +7,13 @@ Nonstop House 2
 :slug: nonstop-house-2
 :status: published
 
-| 
-|  
 
 A deep house mix for enjoyment. Use for relaxing, meditation, studying
 etc.
+
+
+.. youtube:: lNyGAQ1_44g
+
 
 | Tracklist:
 | The Last Tango in Paris - The Sepia
