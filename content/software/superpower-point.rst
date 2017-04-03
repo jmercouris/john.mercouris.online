@@ -14,13 +14,14 @@ in for a course titled Multimodal Interaction. The idea is that through
 using natural gestures (no handheld devices) you should be able to go
 through a presentation.
 
-[video width="640" height="360"
-mp4="http://jmercouris.com/wp-content/uploads/2015/07/Superpowerpoint.mp4"][/video]
+..
+   http://jmercouris.com/wp-content/uploads/2015/07/Superpowerpoint.mp4"
+
 
 Technology Demonstration:
 =========================
 
-http://youtu.be/vKPNY0GjnIs
+.. youtube:: vKPNY0GjnIs
 
 Prerequisites to run the code:
 ==============================
@@ -33,8 +34,6 @@ For example, here's what my Processing libraries folder looks like (you
 do not need blobscanner, or old):
 
 |Screen Shot 2015-07-15 at 17.19.23|
-
- 
 
 Simple Open NI:
 ---------------
@@ -58,8 +57,6 @@ Websocket P5
 https://github.com/muthesius/WebSocketP5
 
 Same installation method as Simple Open NI
-
- 
 
 Processing: Kinect Detection
 ============================
@@ -679,8 +676,6 @@ front of the sensor. As the technology progresses, this could very well
 become a viable way of presenting. Anyways, I hope you enjoyed, and
 thanks for reading!
 
-.. |Screen Shot 2015-07-15 at 17.19.23| image:: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-15-at-17.19.23.png
-   :class: alignnone size-full wp-image-285
-   :width: 503px
-   :height: 536px
-   :target: http://jmercouris.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-15-at-17.19.23.png
+.. |Screen Shot 2015-07-15 at 17.19.23| image:: {filename}/images/Screen-Shot-2015-07-15-at-17.19.23.png
+   :class: pure-img
+
