@@ -116,10 +116,8 @@ The Symbols underneath each node are formatted in the following way:
 Root (leader) Nodes are colored green, defective nodes are colored red,
 all other nodes are colored black.
 
-[video width="1728" height="1032"
-mp4="http://jmercouris.com/wp-content/uploads/2016/04/Echo.mp4"][/video]
-
- 
+..
+   http://jmercouris.com/wp-content/uploads/2016/04/Echo.mp4"
 
 What does the self-stabilizing spanning tree look like?
 -------------------------------------------------------
@@ -133,8 +131,8 @@ The Symbols underneath each node are formatted in the following way:
 Root (leader) Nodes are colored green, defective nodes are colored red,
 all other nodes are colored black.
 
-[video width="1720" height="952"
-mp4="http://jmercouris.com/wp-content/uploads/2016/04/Healing.mp4"][/video]
+..
+   http://jmercouris.com/wp-content/uploads/2016/04/Healing.mp4"
 
 As you can see, the network periodically has node failures. The node
 failures represent machine failure, intermittent connectivity failure,
@@ -151,28 +149,13 @@ coordinate tasks. Self-stabilizing spanning trees are even more powerful
 and resilient. I hope you learned something interesting! Thanks for
 reading!
 
-.. |Ring| image:: http://jmercouris.com/wp-content/uploads/2016/04/Ring.png
-   :class: alignnone size-full wp-image-365
-   :width: 800px
-   :height: 600px
-   :target: http://jmercouris.com/wp-content/uploads/2016/04/Ring.png
-.. |RingTree| image:: http://jmercouris.com/wp-content/uploads/2016/04/RingTree.png
-   :class: alignnone size-full wp-image-366
-   :width: 800px
-   :height: 600px
-   :target: http://jmercouris.com/wp-content/uploads/2016/04/RingTree.png
-.. |Mesh| image:: http://jmercouris.com/wp-content/uploads/2016/04/Mesh.png
-   :class: alignnone size-full wp-image-367
-   :width: 800px
-   :height: 600px
-   :target: http://jmercouris.com/wp-content/uploads/2016/04/Mesh.png
-.. |MeshTree0| image:: http://jmercouris.com/wp-content/uploads/2016/04/MeshTree0.png
-   :class: alignnone size-full wp-image-368
-   :width: 800px
-   :height: 600px
-   :target: http://jmercouris.com/wp-content/uploads/2016/04/MeshTree0.png
-.. |MeshTree1| image:: http://jmercouris.com/wp-content/uploads/2016/04/MeshTree1.png
-   :class: alignnone size-full wp-image-369
-   :width: 800px
-   :height: 600px
-   :target: http://jmercouris.com/wp-content/uploads/2016/04/MeshTree1.png
+.. |Ring| image:: {filename}/images/Ring.png
+   :class: pure-img
+.. |RingTree| image:: {filename}/images/RingTree.png
+   :class: pure-img
+.. |Mesh| image:: {filename}/images/Mesh.png
+   :class: pure-img
+.. |MeshTree0| image:: {filename}/images/MeshTree0.png
+   :class: pure-img
+.. |MeshTree1| image:: {filename}/images/MeshTree1.png
+   :class: pure-img
