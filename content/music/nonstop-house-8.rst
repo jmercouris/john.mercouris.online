@@ -12,6 +12,7 @@ A high quality, smooth deep house mix for your enjoyment.
 
 .. youtube:: MKUOd6UVOlc
 
+Nonstop. house.
 
 | Tracklist:
 | When I think of You - Funkstar Deluxe ft. The Crickets
