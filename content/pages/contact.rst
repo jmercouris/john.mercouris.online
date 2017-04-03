@@ -5,4 +5,8 @@ Contact
 :slug: contact
 :status: published
 
+If you would like to contact me, the best way to reach me is by
+email.
+
+My email address is john + (@ symbol) + mercouris + .email
 

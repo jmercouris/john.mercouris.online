@@ -24,8 +24,7 @@ By empirically analyzing, understanding, and abstracting the constraints
 of our machines and applications, we can create deep clarity in
 interface and functionality.
 
-.. |Me| image:: http://jmercouris.com/wp-content/uploads/2014/03/john_IMGP0395-300x201.jpg
-   :class: size-medium wp-image-13 alignleft
+.. |Me| image:: {filename}/images/john.jpg
+   :class: pure-img
    :width: 300px
-   :height: 201px
-   :target: http://jmercouris.com/wp-content/uploads/2014/03/john_IMGP0395.jpg
+   :height: 200px
