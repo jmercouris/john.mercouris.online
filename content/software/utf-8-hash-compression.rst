@@ -8,7 +8,7 @@ UTF-8 Hash Compression
 :status: published
 
 As I was reading about UTF-8 the other day, I read on wikipedia, that
- the size of a given character was anywhere from 1-4 bytes.
+the size of a given character was anywhere from 1-4 bytes.
 
     UTF-8 and Ascii use an unbelievable amount of storage per amount of
     text actually stored on disk
@@ -123,33 +123,15 @@ the bitbucket link below to download/clone it.
 
 `Repository Link <https://bitbucket.org/jmercouris/hash-compression>`__
 
-.. |Screen Shot 2014-07-21 at 23.52.28| image:: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.52.28.png
-   :class: alignnone size-full wp-image-104
-   :width: 684px
-   :height: 564px
-   :target: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.52.28.png
-.. |Screen Shot 2014-07-21 at 23.44.19| image:: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.44.19.png
-   :class: alignnone size-full wp-image-105
-   :width: 812px
-   :height: 830px
-   :target: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.44.19.png
-.. |Screen Shot 2014-07-21 at 23.44.01| image:: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.44.01.png
-   :class: alignnone size-full wp-image-106
-   :width: 812px
-   :height: 830px
-   :target: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.44.01.png
-.. |Screen Shot 2014-07-22 at 0.00.31| image:: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-22-at-0.00.31.png
-   :class: alignnone size-full wp-image-107
-   :width: 684px
-   :height: 564px
-   :target: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-22-at-0.00.31.png
-.. |Screen Shot 2014-07-21 at 23.44.58| image:: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.44.58.png
-   :class: alignnone size-full wp-image-108
-   :width: 684px
-   :height: 564px
-   :target: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.44.58.png
-.. |Screen Shot 2014-07-21 at 23.46.53| image:: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.46.53-837x1024.png
-   :class: alignnone size-large wp-image-109
-   :width: 474px
-   :height: 579px
-   :target: http://jmercouris.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-23.46.53.png
+.. |Screen Shot 2014-07-21 at 23.52.28| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.52.28.png
+   :class: pure-imag
+.. |Screen Shot 2014-07-21 at 23.44.19| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.44.19.png
+   :class: pure-imag
+.. |Screen Shot 2014-07-21 at 23.44.01| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.44.01.png
+   :class: pure-imag
+.. |Screen Shot 2014-07-22 at 0.00.31| image:: {filename}/images/Screen-Shot-2014-07-22-at-0.00.31.png
+   :class: pure-imag
+.. |Screen Shot 2014-07-21 at 23.44.58| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.44.58.png
+   :class: pure-imag
+.. |Screen Shot 2014-07-21 at 23.46.53| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.46.53.png
+   :class: pure-imag

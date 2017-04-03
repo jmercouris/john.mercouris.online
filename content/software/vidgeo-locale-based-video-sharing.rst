@@ -11,9 +11,12 @@ Vidgeo is a program that my friend Eyoel and I created in order to share
 videos within a geographical context. The program works in a very simple
 way:
 
--  Record a video
--  Video get's placed on a map pinned to where the video is recorded
--  The video is available for distribution or searching by other users
+#. Record a video
+
+#. Video get's placed on a map pinned to where the video is recorded
+
+#. The video is available for distribution or searching by other users
+
 
 The value of a geographic search method is far beyond the obvious.  It
 can help users find information that is relevant to their needs. Let's
