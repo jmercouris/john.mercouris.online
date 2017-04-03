@@ -49,8 +49,6 @@ program will alert your terminal with a visual or audible bell
 
 |Screen Shot 2015-09-29 at 00.49.44|
 
- 
-
 In addition, as the program runs it will show you elapsed task/break
 cycles in a row. Below is an example of how the program would change
 over time:
@@ -159,28 +157,13 @@ The Full Source
      progress(i,break_time,'Break Time Elapsed: %s:00' % i)
      alert()
 
-.. |Screen Shot 2015-09-29 at 01.14.42| image:: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-01.14.42.png
-   :class: alignnone size-full wp-image-304
-   :width: 808px
-   :height: 366px
-   :target: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-01.14.42.png
-.. |Screen Shot 2015-09-29 at 00.49.44| image:: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-00.49.44.png
-   :class: alignnone size-full wp-image-310
-   :width: 185px
-   :height: 543px
-   :target: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-00.49.44.png
-.. |Screen Shot 2015-09-29 at 00.49.28| image:: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-00.49.28.png
-   :class: alignnone size-full wp-image-305
-   :width: 703px
-   :height: 436px
-   :target: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-00.49.28.png
-.. |Screen Shot 2015-09-29 at 00.49.32| image:: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-00.49.32.png
-   :class: alignnone size-full wp-image-306
-   :width: 703px
-   :height: 436px
-   :target: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-00.49.32.png
-.. |Screen Shot 2015-09-29 at 00.49.33| image:: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-00.49.33.png
-   :class: alignnone size-full wp-image-307
-   :width: 703px
-   :height: 436px
-   :target: http://jmercouris.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-29-at-00.49.33.png
+.. |Screen Shot 2015-09-29 at 01.14.42| image:: {filename}/images/Screen-Shot-2015-09-29-at-01.14.42.png
+   :class: pure-img
+.. |Screen Shot 2015-09-29 at 00.49.44| image:: {filename}/images/Screen-Shot-2015-09-29-at-00.49.44.png
+   :class: pure-img
+.. |Screen Shot 2015-09-29 at 00.49.28| image:: {filename}/images/Screen-Shot-2015-09-29-at-00.49.28.png
+   :class: pure-img
+.. |Screen Shot 2015-09-29 at 00.49.32| image:: {filename}/images/Screen-Shot-2015-09-29-at-00.49.32.png
+   :class: pure-img
+.. |Screen Shot 2015-09-29 at 00.49.33| image:: {filename}/images/Screen-Shot-2015-09-29-at-00.49.33.png
+   :class: pure-img
