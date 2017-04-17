@@ -6,7 +6,6 @@
 #root {
     max-width:110ch;
     background-color:white;
-    padding-right: 10ch;
 }
 
 table.archive {
@@ -18,6 +17,7 @@ table.archive {
 /* remove underline from links */
 a {
     text-decoration: none;
+    word-wrap:break-word;
 }
 
 /* set links to pleasant blue */
@@ -33,7 +33,6 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     text-transform: lowercase;
     color: #2b9aef;
-    font-size: 48px;
 }
 
 code, tt, .literal {
