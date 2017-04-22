@@ -1,6 +1,24 @@
-#layout {
-    margin-left: 45px;
-    margin-right: 45px;
+@media screen and (max-width: 480px) {
+    #menu {
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 10px;
+    }
+     #layout {
+	 margin-left: 15px;
+	 margin-right: 10px;
+     }
+}
+@media screen and (min-width: 480px) {
+    #menu {
+	margin-top: 20px;
+	margin-left: 45px;
+	margin-right: 45px;
+    }
+    #layout {
+	margin-left: 45px;
+	margin-right: 45px;
+    }
 }
 
 #root {
@@ -9,9 +27,7 @@
 }
 
 table.archive {
-
     width:100%
-
 }
 
 /* remove underline from links */
@@ -91,11 +107,7 @@ h1.article {
 /*------------------------------
  * menu
  *------------------------------*/
-#menu {
-    margin-top: 20px;
-    margin-left: 45px;
-    margin-right: 45px;
-}
+
 
 .pure-menu-link {
     padding: .5em .5em;
