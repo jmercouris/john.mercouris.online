@@ -42,7 +42,7 @@ Here's how the system works:
 WebServer Side Component
 ========================
 
-::
+.. code-block:: php
 
     $ipfile = "server.txt"; // File for encrypted IP Persistence
     $key = 'super_secret_key'; // Key for IP encryption
@@ -55,14 +55,14 @@ WebServer Side Component
        md5($key), $string, MCRYPT_MODE_CBC, md5(md5($key))));
 
      // Persist The Encrypted Key to Disk
-     $fh = @fopen($ipfile, 'w');
+     $fh = @fopen($ipfile, 'w');
      fwrite($fh, $encrypted);
      fclose($fh);
     }
     // Check to see that the request for the IP has the correct Password
     else if ($_GET['request'] == 'secret_password') {
      // Open the File and Decrypt the IP Address
-     $string = file_get_contents($ipfile, true);
+     $string = file_get_contents($ipfile, true);
      $decrypted = rtrim(mcrypt_decrypt(MCRYPT_RIJNDAEL_256, md5($key),
        base64_decode($string), MCRYPT_MODE_CBC, md5(md5($key))), "\0");
 

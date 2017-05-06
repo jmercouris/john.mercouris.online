@@ -15,7 +15,6 @@ Configure your :code:`pelicanconf.py` as:
 
 Favicon
 ------------------------------------------------------------------------
-
 Set :code:`FAVICON` to specify a site favicon:
 
 .. code-block:: python
@@ -31,7 +30,9 @@ Copyright, License
 This software is released under the BSD 3-clause license.
 See :code:`LICENSE`.
 
-Files listed below are retrieved from `Pure.css <http://purecss.io/>`_ and are also released under BSD license.
+Files listed below are retrieved from `Pure.css <http://purecss.io/>`_
+and are also released under BSD license.
+
 See :code:`LICENSE-pure.md`.
 
 * :code:`static/css/pure-min.css`
