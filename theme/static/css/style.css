@@ -9,6 +9,7 @@
 	 margin-right: 10px;
      }
 }
+
 @media screen and (min-width: 480px) {
     #menu {
 	margin-top: 20px;
