@@ -1,29 +1,20 @@
-Pelican Helium Template
-=====================
-
 Overview
-========
-
+========================================================================
 This is a pelican theme using `Pure.css <http://purecss.io/>`_.
 
 
 How to Install?
-===============
-
+========================================================================
 Clone this repository:
-
-.. code-block:: bash
-
-   % git clone https://github.com/pman0214/pelican-pure.git
 
 Configure your :code:`pelicanconf.py` as:
 
 .. code-block:: python
 
-   % THEME = /path/to/pelican-pure
+   % THEME = /path/to/theme
 
 Favicon
-~~~~~~~
+------------------------------------------------------------------------
 
 Set :code:`FAVICON` to specify a site favicon:
 
@@ -32,7 +23,7 @@ Set :code:`FAVICON` to specify a site favicon:
    FAVICON = 'images/favicon.ico'
 
 Copyright, License
-==================
+========================================================================
 * Copyright (c) 2017, John Mercouris
 * Copyright (c) 2015, Shigemi ISHIDA
 * Copyright 2013 Yahoo! Inc. All rights reserved.
