@@ -169,8 +169,7 @@ section.contents a:active {
 /* code highlight */
 .highlight pre {
     font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
-    border: 1px solid #333;
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
     padding: 0.5em;
-    border-radius: 5px;
-    background-color: #f8f8f8;
 }
