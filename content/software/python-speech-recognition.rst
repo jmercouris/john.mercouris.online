@@ -47,7 +47,7 @@ As a note of caution, if you are to install on OS X, you should install
 PortAudio is a dependency.
 
 
-::
+.. code-block:: python
 
     import speech_recognition as sr
 

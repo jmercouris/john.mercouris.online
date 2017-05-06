@@ -21,7 +21,7 @@ things I did well, and things that I would change now as a developer.
 
  
 
-::
+.. code-block:: basic
 
     !__________________________________________________________
     !
@@ -61,7 +61,7 @@ called variables used, your declaration of your class level variables
 should almost always occur at the top of the file. When confusing or
 non-obvious variables should be commented or renamed.
 
-::
+.. code-block:: basic
 
     CLEAR
     DIM StockNumber(10000), ItemName$(10000), Price(10000), IfSold(100000)
@@ -79,7 +79,7 @@ sort being called on the stock items? Does the program rely on the items
 being sorted? Is this useful for the user or the managing data
 structure?
 
-::
+.. code-block:: basic
 
     DO while choice <> 6
 
@@ -110,7 +110,7 @@ The above is a good usage of a main loop within a program. All of the
 menu subroutines are broken up into separate callbacks. This makes the
 code easily editable and extensible.
 
-::
+.. code-block:: basic
 
     !__________________________________________________________
     ! Stock Numbers
@@ -152,7 +152,7 @@ your software but in doing so you lose all of your "data" that you
 embedded into your program. Unfortunately the above example cannot be
 easily remedied due to the constraints of programming in True BASIC
 
-::
+.. code-block:: basic
 
     !______________________________________________________________________________
     !
@@ -203,7 +203,7 @@ sale program. Sorting is a abstract/general function that I need my
 program to be able to do. It would be ideal to break this apart into
 another file and use it as part of a library.
 
-::
+.. code-block:: basic
 
     !______________________________________________________________________________
     !
@@ -288,7 +288,7 @@ title. Then, the variables and their labels that you would like to
 print. In an abstract way you could reconstruct every window in this
 program.
 
-::
+.. code-block:: basic
 
      ELSE
      CLEAR
@@ -366,7 +366,7 @@ This example is of a subroutine that is far too long. Unfortunately one
 of the curses of BASIC is the limit of how it can combine subroutines
 and files.
 
-::
+.. code-block:: basic
 
     !______________________________________________________________________________
     !

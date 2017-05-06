@@ -30,7 +30,7 @@ shorter and used only one line of Elisp code.
 What does the code look like?
 =============================
 
-::
+.. code-block:: elisp
 
     (define-minor-mode centered-point-mode
       "Alaways center the cursor in the middle of the screen."

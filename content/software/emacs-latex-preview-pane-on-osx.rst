@@ -24,13 +24,13 @@ for you is converts your Latex file to something renderable by Emac's
 built in doc-view-mode.
 
 
-::
+.. code-block:: bash
 
     sudo port install ghostscript
 
 or
 
-::
+.. code-block:: bash
 
     brew install ghostscript
 

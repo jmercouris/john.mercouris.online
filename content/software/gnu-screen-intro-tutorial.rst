@@ -35,7 +35,7 @@ So what would you do? You can use GNU Screen! More likely than not, GNU
 Screen ships with your \*Nix Machine. To test if it is already installed
 simply type:
 
-::
+.. code-block:: bash
 
     screen
 
@@ -46,13 +46,13 @@ If you are presented with a message as such:
 then, you have GNU Screen installed, congratulations, if not you can
 find it at:
 
-::
+.. code-block:: bash
 
     http://ftp.gnu.org/gnu/screen/
 
 Or, on Ubuntu you can install it with:
 
-::
+.. code-block:: bash
 
     sudo apt-get install screen
 
@@ -61,7 +61,7 @@ spaces.
 
 The first command we'll learn is how to make a new \ *named* screen.
 
-::
+.. code-block:: bash
 
     screen -S screenname
 
@@ -73,7 +73,7 @@ in this case, a new virtual terminal \ *screen*.
 
 If we run:
 
-::
+.. code-block:: bash
 
     screen -ls
 
@@ -86,20 +86,20 @@ Now, if we want to "detach" from our screen session, that is, change our
 virtual display, akin to changing "spaces" on OSX, we will type the
 following key combination:
 
-::
+.. code-block:: bash
 
     ctrl + a
 
 we'll then release all keys on the keyboard and press:
 
-::
+.. code-block:: bash
 
     d
 
 This will "detach" our running session, let's go ahead and do that.
  After detaching, entering the command:
 
-::
+.. code-block:: bash
 
     screen -ls
 
@@ -110,26 +110,26 @@ will show us the new state of our terminal:
 We are now detached from our previous session, and are attached to the
 standard terminal. To go back into our virtual \ *screen*, we type:
 
-::
+.. code-block:: bash
 
     screen -r testScreenEmacs
 
 Finally, let us kill our test screen environment. The recommended way to
 do so is to enter the \ *screen* using
 
-::
+.. code-block:: bash
 
     screen -r screenname
 
 then entering the following key combination:
 
-::
+.. code-block:: bash
 
     ctrl + a
 
 we'll then release all keys on the keyboard and type:
 
-::
+.. code-block:: bash
 
     :quit
 
@@ -140,7 +140,7 @@ followed by the return key (enter).
 In short, GNU Screen is a powerful tool for maintaining multiple
 "virtual" screens. Here's an aggregate quick reference:
 
-::
+.. code-block:: bash
 
       screen -ls   list screen sessions
       screen -S name create screen called name

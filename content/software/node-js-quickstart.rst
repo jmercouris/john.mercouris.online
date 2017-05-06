@@ -42,13 +42,13 @@ Installation
 -  Unzip node JS
 -  Go into your unzipped node js directory and enter the command
 
-   ::
+.. code-block:: bash
 
        ./configure
 
-   followed by
+followed by
 
-   ::
+.. code-block:: bash
 
        sudo make install
 
@@ -65,7 +65,7 @@ Installation
 
 Did your installation work?
 
-::
+.. code-block:: bash
 
     node
     > console.log("hello test")
@@ -89,7 +89,7 @@ No need! NPM comes with node js, but if somehow you managed to get it
 without then simply:
 
 
-::
+.. code-block:: bash
 
     curl http://npmjs.org/install.sh | sh
 
@@ -98,7 +98,7 @@ You might also want to make sure that if you have installed NPM via node
 js you have the last version, to do so run:
 
 
-::
+.. code-block:: bash
 
     sudo npm install npm -g
 
@@ -120,7 +120,7 @@ and most useful package that we will be using. In this case it is called
 simply \ *rhyme.*\ This can be achieved with:
 
 
-::
+.. code-block:: bash
 
     npm install rhyme
 
@@ -135,7 +135,7 @@ Next make a new file on disk. Call it rhyme.js, or whatever you wish.
 Copy and paste the following contents into the program;
 
 
-::
+.. code-block:: javascript
 
     var rhyme = require('rhyme');
 
@@ -161,7 +161,7 @@ Copy and paste the following contents into the program;
 As soon as you're done, run
 
 
-::
+.. code-block:: bash
 
     node myprogram.js
 

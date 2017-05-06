@@ -81,7 +81,7 @@ The early detection code looked like this (largely based off the
 examples which can be found at:
 *parentDirectory*/Processing/libraries/SimpleOpenNI/examples):
 
-::
+.. code-block:: java
 
     import SimpleOpenNI.*;
 
@@ -213,7 +213,7 @@ draw a skeleton simulating the user's skeleton. Also importantly there
 are some SimpleOpenNI events that are implemented, for example, when the
 program detects a new user using the method
 
-::
+.. code-block:: java
 
     void onNewUser(...)
 
@@ -232,7 +232,7 @@ I needed to do two things, firstly setup an apache web server on my
 computer, then find the web page served. The web page that I would be
 serving through Chrome looks like the following:
 
-::
+.. code-block:: html
 
     <!DOCTYPE HTML>
     <html>
@@ -287,7 +287,7 @@ serving through Chrome looks like the following:
 After setting up the web server, I added the following code to
 Processing:
 
-::
+.. code-block:: java
 
     /*
      Simple WebSocketServer example that can receive voice transcripts from Chrome
@@ -338,7 +338,7 @@ automate GUIs and their testing, demoing, etc. I found a helper class
 online and I modified it to rate limit how quickly a key can be pressed,
 and I simplified the code:
 
-::
+.. code-block:: java
 
     import java.awt.Robot;
     import java.awt.AWTException;
@@ -369,7 +369,7 @@ Everything Together
 
 When you add all the code together you get the following:
 
-::
+.. code-block:: java
 
     //-----------------------------------------------------------------
     // Imports
@@ -648,13 +648,13 @@ using Processing, please note you MAY have to get the Microsoft Kinect
 drivers, check out what you need for your own system. Also important to
 note is that the program currently uses the
 
-::
+.. code-block:: java
 
     KeyEvent.VK_P
 
 and
 
-::
+.. code-block:: java
 
     KeyEvent.VK_P
 

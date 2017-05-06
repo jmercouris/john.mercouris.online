@@ -101,7 +101,7 @@ we'll set up a cronjob at whatever frequency we wish. I have my cronjob
 set to update the IP of my Home Server about once a day. The script here
 is far simpler:
 
-::
+.. code-block:: bash
 
     #!/bin/bash
     curl http://www.website.com/server.php?accessor=secret_password
@@ -118,7 +118,7 @@ not able to connect to our machine, because likely this means that our
 IP address has changed. To do this, we have a bash script that we place
 in our path:
 
-::
+.. code-block:: bash
 
     #!/bin/bash
     ssh_name=`curl -s http://www.website.com.com/server.php?request=secret_password`

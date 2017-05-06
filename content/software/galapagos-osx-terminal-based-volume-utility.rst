@@ -134,7 +134,7 @@ I made an abstract AudioDevice class which looks like the following:
 Class AudioDevice
 -----------------
 
-::
+.. code-block:: python
 
     # Represents an OSX audio device, e.g. input, output
     class AudioDevice:
@@ -173,7 +173,7 @@ these operations looks like this:
 Class VolumeModel
 -----------------
 
-::
+.. code-block:: python
 
     # Represents the Data in the program
     class VolumeModel:

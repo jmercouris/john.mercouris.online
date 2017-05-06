@@ -38,7 +38,9 @@ The Result
 
 The end result is an absolutely super easy to use program.
 
-./tomaterminal -- that's it!
+.. code-block:: bash
+
+    ./tomaterminal # that's it!
 
 |Screen Shot 2015-09-29 at 01.14.42|
 
@@ -64,14 +66,14 @@ The Details
 
 Firstly change the permissions of the program on your own machine:
 
-::
+.. code-block:: bash
 
     chmod +x tomaterminal.py
 
 after you have changed the permissions, you should simply be able to
 execute the program as normally:
 
-::
+.. code-block:: bash
 
     ./tomaterminal
 
@@ -80,7 +82,7 @@ options that alter the behavior. For example, if you wish to have a 10
 minute work interval, and a 7 minute break interval you'd start the
 program like this:
 
-::
+.. code-block:: bash
 
     ./tomaterminal -t 10 -b 7
 
@@ -98,7 +100,7 @@ git@bitbucket.org:jmercouris/tomaterminal.git
 The Full Source
 ===============
 
-::
+.. code-block:: python
 
     #!/usr/bin/python
     import time
