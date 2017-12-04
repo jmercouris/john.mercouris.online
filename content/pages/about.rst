@@ -7,22 +7,18 @@ About
 
 |Me|
 
-Hi, my name is John Mercouris. I'm a software engineer with a
-passion for developing high quality human interfaces. The projects and
-research I work on center around the idea that we can make interactions
-with our programs beautiful, and logically beautiful. To that end I
-strongly believe that:
+Hi, my name is John Mercouris. I'm a software engineer with a passion
+for developing high quality human interfaces. The projects and
+research I work on center around the idea that we can make
+interactions with our programs beautiful, and logically beautiful.
 
-    Aesthetic integrity doesn’t measure the beauty of an app’s artwork
-    or characterize its style; rather, it represents how well an app’s
-    appearance and behavior integrates with its function to send a
-    coherent message.
+By empirically analyzing, understanding, and abstracting the
+constraints of our machines and applications, we can create deep
+clarity in interface and functionality.
 
-*Apple Human Interface Guidelines*
+If you would like to contact me, the best way to reach me is by
+email. My email address is john + (@ symbol) + mercouris + .email
 
-By empirically analyzing, understanding, and abstracting the constraints
-of our machines and applications, we can create deep clarity in
-interface and functionality.
 
 .. |Me| image:: {filename}/images/john.jpg
    :class: pure-img
