@@ -1,0 +1,8 @@
+* john.mercouris.online
+- Welcome to my personal website's repository
+* Developing
+- Source environment
+- ~./develop_server.sh~ start
+* Publishing
+   pelican /path/to/content -s publishconf.py
+   
