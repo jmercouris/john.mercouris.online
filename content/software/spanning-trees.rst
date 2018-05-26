@@ -5,6 +5,9 @@ Spanning Trees
 :category: Software
 :slug: spanning-trees
 :status: published
+:description: A quick tutorial on Spanning trees, and why they are
+              useful.
+
 
 What is a Spanning Tree?
 ========================
@@ -116,8 +119,7 @@ The Symbols underneath each node are formatted in the following way:
 Root (leader) Nodes are colored green, defective nodes are colored red,
 all other nodes are colored black.
 
-..
-   http://jmercouris.com/wp-content/uploads/2016/04/Echo.mp4"
+|Echo|
 
 What does the self-stabilizing spanning tree look like?
 -------------------------------------------------------
@@ -131,8 +133,7 @@ The Symbols underneath each node are formatted in the following way:
 Root (leader) Nodes are colored green, defective nodes are colored red,
 all other nodes are colored black.
 
-..
-   http://jmercouris.com/wp-content/uploads/2016/04/Healing.mp4"
+|Healing|
 
 As you can see, the network periodically has node failures. The node
 failures represent machine failure, intermittent connectivity failure,
@@ -158,4 +159,8 @@ reading!
 .. |MeshTree0| image:: {filename}/images/MeshTree0.png
    :class: pure-img
 .. |MeshTree1| image:: {filename}/images/MeshTree1.png
+   :class: pure-img
+.. |Echo| image:: {filename}/images/Echo.mp4
+   :class: pure-img
+.. |Healing| image:: {filename}/images/Healing.mp4
    :class: pure-img
