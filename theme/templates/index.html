@@ -2,18 +2,31 @@
 {% block meta %}{{ super() }}  <meta name="author" content="{{ AUTHOR }}">
 {% endblock %}
 {% block content %}
-{% block content_title %}{% endblock %}
-{% if articles %}
-{% for article in articles[0:10] %}
-<article class="index">
-  <header>
-    <h1><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
-    <div class="article-info">
-      {{article.description}}
-    </div>
-  </header>
-</article>
-{%     endfor %}
-{% endif %}
-{% include 'inc/pagination.html' %}
+  {% block content_title %}{% endblock %}
+  
+  <div id="introduction">
+    {# Description is stored in about.rst :description: variable #}
+    {% if pages %}
+      {% for page in pages %}
+        {% if page.slug == "about" %}
+          {{ page.description }}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+  
+  {# Show a description of the first 10 articles #}
+  {% if articles %}
+    {% for article in articles[0:10] %}
+      <article class="index">
+        <header>
+          <h1 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
+          <div class="article-info">
+            {{article.description}}
+          </div>
+        </header>
+      </article>
+    {%     endfor %}
+  {% endif %}
+  {% include 'inc/pagination.html' %}
 {% endblock content %}
