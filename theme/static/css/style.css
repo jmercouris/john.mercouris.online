@@ -23,8 +23,14 @@
 }
 
 #root {
-    max-width:110ch;
+    max-width:100ch;
     background-color:white;
+}
+
+#introduction {
+    font-size:110%;
+    padding-top:1em;
+
 }
 
 table.archive {
@@ -44,11 +50,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Helvetica Neue';
-    font-weight: 500;
+    font-weight: 400;
 }
 
 h1 {
     color: #2b9aef;
+    font-size:170%;
 }
 
 code, tt, .literal {
@@ -84,6 +91,13 @@ h1.article {
     color: #bbb;
 }
 
+.article-title {
+    padding:0em;
+    margin:0em;
+    margin-top:1.25em;
+
+}
+
 .article-info div {
     margin: 0.2em 0;
 }
@@ -111,13 +125,12 @@ h1.article {
 
 .pure-menu {
     font-family: 'Helvetica Neue';
-    font-size: 18px;
+    font-size:120%;
 }
 
 .pure-menu-heading {
     color: #2b9aef;
     text-transform: lowercase;
-    font-weight: bold;
     padding-left:0;
 }
 
@@ -169,4 +182,9 @@ section.contents a:active {
     border-top: 1px solid #e1e1e1;
     border-bottom: 1px solid #e1e1e1;
     padding: 0.5em;
+}
+
+.on_create {
+    width: 25ch;
+
 }
