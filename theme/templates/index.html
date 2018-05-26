@@ -1,28 +1,15 @@
 {% extends "base.html" %}
 {% block meta %}{{ super() }}  <meta name="author" content="{{ AUTHOR }}">
 {% endblock %}
-{% block opengraph %}{{ super() }}  <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ SITENAME }}">
-  <meta property="og:url" content="{{ SITEURL }}">
-  <meta property="og:description" content="{{ SITENAME }}">
-{% if OPEN_GRAPH_IMAGE %}
-  <meta property="og:image" content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}">
-{% endif %}
-{% endblock %}
 {% block content %}
 {% block content_title %}{% endblock %}
 {% if articles %}
-{%     for article in (articles_page.object_list if articles_page else articles) %}
+{% for article in articles[0:10] %}
 <article class="index">
   <header>
     <h1><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
     <div class="article-info">
-      <div class="category">Category: <a class="pure-button" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
-<!--       <div class="tags">Tags: -->
-<!-- {%         for tag in article.tags %} -->
-<!--         <a class="pure-button" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> -->
-<!-- {%         endfor %} -->
-<!--       </div> -->
+      {{article.description}}
     </div>
   </header>
 </article>
