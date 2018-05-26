@@ -4,10 +4,15 @@ About
 :author: jmercouris
 :slug: about
 :status: published
+:description: Hi, my name is John Mercouris and this is my personal
+              website. I'm a Computer Scientist with interests in:
+              HCI, Digital Networks, and Machine
+              Learning. The projects and research I work on deal with
+              the interface between humans and computers.
 
 |Me|
 
-Hi, my name is John Mercouris. I'm a software engineer with a passion
+Hi, my name is John Mercouris. I'm a Computer Scientist with a passion
 for developing high quality human interfaces. The projects and
 research I work on center around the idea that we can make
 interactions with our programs beautiful, and logically beautiful.
