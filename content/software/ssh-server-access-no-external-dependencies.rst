@@ -37,9 +37,9 @@ High Level Architecture
 
 Here's how the system works:
 
-#. Script on home server pings webserver daily
-#. PHP script on webserver saves/updates IP address from home server
-#. To get IP, your own machine asks webserver for home server IP
+#. Script on home server pings webserver daily.
+#. PHP script on webserver saves/updates IP address from home server.
+#. To get IP, your own machine asks webserver for home server IP.
 
 WebServer Side Component
 ========================
