@@ -118,11 +118,11 @@ RA Studios
 PROJECTS
 ========================================================================
 
-nEXT Browser https://github.com/neXT-Browser/nEXT/
+Next Browser https://github.com/Next-Browser/Next/
 ------------------------------------------------------------------------
-- nEXT is a browser designed to get out of your way and let you be
+- Next is a browser designed to get out of your way and let you be
   productive
-- nEXT is entirely keyboard driven, and infinitely
+- Next is entirely keyboard driven, and infinitely
   customizable/extensible.
 - develops open source browser implementation written in Common-Lisp
 - leads online community of contributors in the form of software
