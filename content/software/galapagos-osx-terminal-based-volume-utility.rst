@@ -6,6 +6,8 @@ Galapagos: OSX Terminal Based Volume Utility
 :tags: featured, Software
 :slug: galapagos-osx-terminal-based-volume-utility
 :status: published
+:description: A command line utility to control the volume in OSX.
+
 
 What is it?
 ===========

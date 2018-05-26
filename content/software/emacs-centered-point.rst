@@ -5,6 +5,8 @@ Emacs Centered-Point
 :category: Software
 :slug: emacs-centered-point
 :status: published
+:description: A simple Emacs package that keeps the cursor within the
+              center of the screen so you can always jump to it.
 
 What is it?
 ===========

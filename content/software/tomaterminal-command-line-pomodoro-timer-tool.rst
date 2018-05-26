@@ -5,6 +5,7 @@ Tomaterminal: Command Line Pomodoro Timer Tool
 :category: Software
 :slug: tomaterminal-command-line-pomodoro-timer-tool
 :status: published
+:description: A command line based Pomodoro tool.
 
 The Source Code
 ===============

@@ -5,6 +5,7 @@ Python Speech Recognition
 :category: Software
 :slug: python-speech-recognition
 :status: published
+:description: How to do speech recognition in Python.
 
 The Main Idea
 =============

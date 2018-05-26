@@ -5,6 +5,8 @@ Emacs Latex-Preview-Pane on OSX
 :category: Software
 :slug: emacs-latex-preview-pane-on-osx
 :status: published
+:description: Installing and setting up Latex Preview Pane so that you
+              can view live changes you make in your Latex documents.
 
 Working with Emacs and Latex
 ============================

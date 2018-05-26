@@ -5,6 +5,7 @@ Emacs Logo Redesign
 :category: Design
 :slug: emacs-logo
 :status: published
+:description: A quick design study on a new Emacs logo.
 
 
 The Problem

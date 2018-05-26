@@ -5,6 +5,8 @@ SSH Server Access: No External Dependencies
 :category: Software
 :slug: ssh-server-access-no-external-dependencies
 :status: published
+:description: Access your home server without depending on DynDNS and
+              others.
 
 The Problem
 ===========

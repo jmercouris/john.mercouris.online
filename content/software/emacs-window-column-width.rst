@@ -5,6 +5,7 @@ Emacs Column Width
 :category: Software
 :slug: emacs-column-width
 :status: published
+:description: A quick way to set a Window width in Emacs.
 
 What is the problem?
 ========================================================================

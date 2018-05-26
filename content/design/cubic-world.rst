@@ -5,6 +5,8 @@ Cubic World
 :category: Design
 :slug: cubic-world
 :status: published
+:description: A quick visual study in perspective featuring the Berlin
+              skyline.
 
 The Idea
 ========
