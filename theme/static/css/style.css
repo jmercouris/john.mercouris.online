@@ -48,7 +48,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    text-transform: lowercase;
     color: #2b9aef;
 }
 
@@ -69,11 +68,7 @@ code, tt, .literal {
 }
 
 #main a:hover, #sidebar a:hover, #footer a:hover {
-    color: #a00;
-}
-
-header.article {
-    padding-bottom:30px;
+    text-decoration:underline;
 }
 
 h1.article {
@@ -123,6 +118,7 @@ h1.article {
     color: #2b9aef;
     text-transform: lowercase;
     font-weight: bold;
+    padding-left:0;
 }
 
 
