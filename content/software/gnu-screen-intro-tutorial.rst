@@ -146,14 +146,19 @@ In short, GNU Screen is a powerful tool for maintaining multiple
       screen -S name create screen called name
       screen -r name connects to the screen name
 
-There are many more commands available, check out some of the helpful
-links below if you want to become a GNU Screen power user.
+Here is a reference of commands to use within Gnu Screen itself: Much
+like the Emacs commands :code:`C-n` and :code:`C-p`, Gnu Screen
+followers similar mnemonics.
 
-http://stackoverflow.com/questions/70614/gnu-screen-survival-guide
+.. code-block:: bash
 
-https://help.ubuntu.com/community/Screen
+     Ctrl+A N -> go to the next screen
+     Ctrl+A P -> go to the previous screen
+     Ctrl+A C -> Create new screen
+     Ctrl+A D -> Detach screen
 
-http://www.koerner.in/2012/03/gnu-screen-quick-reference/
+You can always find more on the help screen :code:`C-a ?`. Best of
+luck!
 
 .. |Screen Shot 2014-06-23 at 9.33.22 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.33.22-PM.png
    :class: pure-img
