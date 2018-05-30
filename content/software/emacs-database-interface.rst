@@ -33,9 +33,12 @@ RET`.  In order to use EDBI, you'll need to install some Perl packages
 from CPAN. CPAN is the "Comprehensive Perl Archive Network" and
 provides a way to install Perl modules.
 
-EDBI depends on a Perl interface that abstracts database in order to
-abstract them within Emacs. The modules you'll want to probably
-install are the following:
+EDBI depends on a Perl interface that abstracts databases in order to
+abstract them within Emacs. You can read more about the abstraction
+here: https://metacpan.org/pod/DBI#connect.
+
+To begin with, the modules you'll want to probably install are the
+following:
 
 .. code-block:: bash
 
