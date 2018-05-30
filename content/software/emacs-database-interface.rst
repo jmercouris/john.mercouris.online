@@ -35,7 +35,9 @@ provides a way to install Perl modules.
 
 EDBI depends on a Perl interface that abstracts databases in order to
 abstract them within Emacs. You can read more about the abstraction
-here: https://metacpan.org/pod/DBI#connect.
+here: https://metacpan.org/pod/DBI#connect. In reading about it,
+you'll also find information about how to structure your database
+information in the EDBI prompt.
 
 To begin with, the modules you'll want to probably install are the
 following:
