@@ -69,7 +69,6 @@ code, tt, .literal {
 #main p {
     margin: 1.5em 0;
     line-height: 1.5em;
-    text-align: justify;
     text-justify: inter-ideograph;
     -ms-text-justify: inter-ideograph;
 }
