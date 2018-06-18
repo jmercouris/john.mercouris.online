@@ -153,6 +153,15 @@ Biomechanics of Front and Back-of-tablet Pointing with Grasping Hands
 - International Journal of Mobile Human Computer Interaction, 7(2),
   43-64, April-June 2015
 
+Communication of Organizations of the 21st Century
+------------------------------------------------------------------------
+- Researched and published findings about communication trends in
+  organizations
+- Examined how interneural communication networks and devices will
+  shape privacy
+- Coordinated with an international team of four authors to prepare
+  the publication.
+
 INSNA Sunbelt Conference - Beijing 2017
 ------------------------------------------------------------------------
 - Presented research about the diffusion of inovation across digital
