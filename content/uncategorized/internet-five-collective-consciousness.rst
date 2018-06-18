@@ -116,7 +116,7 @@ The evolution of Privacy
 The second scenario involves a change in the definition of privacy.
 Privacy is usually governed and restricted by the control of
 information flows. It is often reasoned by Rosen in “The unwanted
-gaze: the destruction of privacy in America” (rosen, 2001) that
+gaze: the destruction of privacy in America” (Rosen, 2001) that
 information must be controlled to prevent injury against an individual
 through recontextualization of information. With a strongly diminished
 capacity for a misunderstanding, and a greatly strengthened capacity
