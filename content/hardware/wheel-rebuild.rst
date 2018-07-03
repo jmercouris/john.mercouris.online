@@ -5,7 +5,7 @@ Bicycle Wheels Rebuild
 :category: Hardware
 :slug: wheel-rebuild
 :status: published
-:description: Rebuilding a bicycle wheel.
+:description: Rebuilding a set of rusty bicycle wheels.
 
 I've done a lot of work on bicycles, but I've never had the
 opportunity to work on assembling or disassembling a wheel. Recently,
