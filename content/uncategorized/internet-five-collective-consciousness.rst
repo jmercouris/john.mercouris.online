@@ -1,6 +1,6 @@
 Internet 5.0 - Interneural Communication
 ########################################################################
-:date: 2018-06-18 10:00
+:date: 2018-06-19 10:00
 :author: jmercouris
 :category: Uncategorized
 :slug: collective-consciousness

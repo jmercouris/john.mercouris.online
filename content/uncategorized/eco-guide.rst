@@ -70,7 +70,7 @@ This means, that if you increase the efficiency of an application from
 2 to 1.5 watts for 100,000 users, you've done the equivalent of
 installing 200 250 Watt Solar Panels.  For a company like Slack,
 decisions like this could mean a difference equivalent to installing
-12,000 250 Watt Solar Panels.
+12,000 250 Watt Solar Panels. That's quite a difference.
 
 
 .. |rating_heat| image:: {filename}/images/rating-tdp.png
