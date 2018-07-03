@@ -7,8 +7,6 @@ Bicycle Wheels Rebuild
 :status: published
 :description: Rebuilding a bicycle wheel.
 
-Bicycle Maintenance
-========================================================================
 I've done a lot of work on bicycles, but I've never had the
 opportunity to work on assembling or disassembling a wheel. Recently,
 I had exactly that opportunity when a dilapidated bicycle appeared by
