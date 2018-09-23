@@ -1,3 +1,9 @@
+body {
+    max-width: 100ch;
+    margin: auto;
+
+}
+
 @media screen and (max-width: 480px) {
     #menu {
 	margin-top: 10px;
@@ -117,6 +123,10 @@ h1.article {
  * menu
  *------------------------------*/
 
+
+.pure-menu-horizontal {
+    white-space: normal;
+}
 
 .pure-menu-link {
     padding: .5em .5em;
