@@ -6,7 +6,7 @@ Puch Maxi 1P52FMI Engine Swap: A Complete Build Log
 :Category: Hardware
 :Description: Modifying a classic moped with a modern engine.
 :Tags: moped, puch maxi, engine swap, 1P52FMI, honda, engineering, CAD, fabrication
-
+:status: draft
 
 This is a compilation of my forum posts documenting the complete build
 process of swapping a 1P52FMI (Honda-style) engine into a Puch Maxi
