@@ -178,34 +178,34 @@ screw.
 I hope you enjoyed this article, and thanks for reading!
 
 
-.. |IMG_3323| image:: {filename}/images/IMG_3323.jpg
+.. |IMG_3323| image:: {static}/images/IMG_3323.jpg
    :class: pure-img
-.. |IMG_3466| image:: {filename}/images/IMG_3466.jpg
+.. |IMG_3466| image:: {static}/images/IMG_3466.jpg
    :class: pure-img
-.. |IMG_3474| image:: {filename}/images/IMG_3474.jpg
+.. |IMG_3474| image:: {static}/images/IMG_3474.jpg
    :class: pure-img
-.. |IMG_3473| image:: {filename}/images/IMG_3473.jpg
+.. |IMG_3473| image:: {static}/images/IMG_3473.jpg
    :class: pure-img
-.. |IMG_3477| image:: {filename}/images/IMG_3477.jpg
+.. |IMG_3477| image:: {static}/images/IMG_3477.jpg
    :class: pure-img
-.. |IMG_3476| image:: {filename}/images/IMG_3476.jpg
+.. |IMG_3476| image:: {static}/images/IMG_3476.jpg
    :class: pure-img
-.. |IMG_3478| image:: {filename}/images/IMG_3478.jpg
+.. |IMG_3478| image:: {static}/images/IMG_3478.jpg
    :class: pure-img
-.. |IMG_3480| image:: {filename}/images/IMG_3480.jpg
+.. |IMG_3480| image:: {static}/images/IMG_3480.jpg
    :class: pure-img
-.. |IMG_3481| image:: {filename}/images/IMG_3481.jpg
+.. |IMG_3481| image:: {static}/images/IMG_3481.jpg
    :class: pure-img
-.. |IMG_3484| image:: {filename}/images/IMG_3484.jpg
+.. |IMG_3484| image:: {static}/images/IMG_3484.jpg
    :class: pure-img
-.. |IMG_3482| image:: {filename}/images/IMG_3482.jpg
+.. |IMG_3482| image:: {static}/images/IMG_3482.jpg
    :class: pure-img
-.. |IMG_3479| image:: {filename}/images/IMG_3479.jpg
+.. |IMG_3479| image:: {static}/images/IMG_3479.jpg
    :class: pure-img
-.. |IMG_3483| image:: {filename}/images/IMG_3483.jpg
+.. |IMG_3483| image:: {static}/images/IMG_3483.jpg
    :class: pure-img
-.. |IMG_3485| image:: {filename}/images/IMG_3485.jpg
+.. |IMG_3485| image:: {static}/images/IMG_3485.jpg
    :class: pure-img
-.. |IMG_3486| image:: {filename}/images/IMG_3486.jpg
+.. |IMG_3486| image:: {static}/images/IMG_3486.jpg
    :class: pure-img
 

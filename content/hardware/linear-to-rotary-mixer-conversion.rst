@@ -94,18 +94,18 @@ the same.
    the linear potentiometer setup
 #. Enjoy your new smooth rotary mixer!
 
-.. |Bozak Mixer| image:: {filename}/images/bozak.jpg
+.. |Bozak Mixer| image:: {static}/images/bozak.jpg
    :class: pure-img
-   :target: {filename}/images/bozak.jpg
-.. |Original Trim with Linear Faders| image:: {filename}/images/IMG_0115.jpg
+   :target: {static}/images/bozak.jpg
+.. |Original Trim with Linear Faders| image:: {static}/images/IMG_0115.jpg
    :class: pure-img
-   :target: {filename}/images/IMG_0115.jpg
-.. |Prototype Phase| image:: {filename}/images/IMG_1836.jpg
+   :target: {static}/images/IMG_0115.jpg
+.. |Prototype Phase| image:: {static}/images/IMG_1836.jpg
    :class: pure-img
-   :target: {filename}/images/IMG_1836.jpg
-.. |Tided up wires and ready for reinstall| image:: {filename}/images/IMG_1843.jpg
+   :target: {static}/images/IMG_1836.jpg
+.. |Tided up wires and ready for reinstall| image:: {static}/images/IMG_1843.jpg
    :class: pure-img
-   :target: {filename}/images/IMG_1843.jpg
-.. |Final Product| image:: {filename}/images/IMG_1844.jpg
+   :target: {static}/images/IMG_1843.jpg
+.. |Final Product| image:: {static}/images/IMG_1844.jpg
    :class: pure-img
-   :target: {filename}/images/IMG_1844.jpg
+   :target: {static}/images/IMG_1844.jpg

@@ -110,11 +110,11 @@ habits, analysis of user needs and constantly cycling through the design
 phase. Finally, we were left with a most distilled and essential design.
 
 
-.. |iOS Simulator Screen shot Mar 26, 2014, 5.07.44 PM| image:: {filename}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.07.44-PM.png
+.. |iOS Simulator Screen shot Mar 26, 2014, 5.07.44 PM| image:: {static}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.07.44-PM.png
    :class: pure-img
-.. |iOS Simulator Screen shot Mar 26, 2014, 5.08.23 PM| image:: {filename}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.08.23-PM.png
+.. |iOS Simulator Screen shot Mar 26, 2014, 5.08.23 PM| image:: {static}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.08.23-PM.png
    :class: pure-img
-.. |iOS Simulator Screen shot Mar 26, 2014, 5.10.47 PM| image:: {filename}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.10.47-PM.png
+.. |iOS Simulator Screen shot Mar 26, 2014, 5.10.47 PM| image:: {static}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.10.47-PM.png
    :class: pure-img
-.. |iOS Simulator Screen shot Mar 26, 2014, 5.11.08 PM| image:: {filename}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.11.08-PM.png
+.. |iOS Simulator Screen shot Mar 26, 2014, 5.11.08 PM| image:: {static}/images/iOS-Simulator-Screen-shot-Mar-26-2014-5.11.08-PM.png
    :class: pure-img

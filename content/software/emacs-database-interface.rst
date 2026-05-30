@@ -91,18 +91,18 @@ modify, and traverse the data in more complex ways.
 
 Thank you for reading, I hope you enjoyed!
 
-.. |open-db-window| image:: {filename}/images/edbi-dialog-open.png
+.. |open-db-window| image:: {static}/images/edbi-dialog-open.png
    :class: pure-img
 
-.. |sqlite-open| image:: {filename}/images/sqlite-open.png
+.. |sqlite-open| image:: {static}/images/sqlite-open.png
    :class: pure-img
 
-.. |edbi-database-view| image:: {filename}/images/edbi-database-view.png
+.. |edbi-database-view| image:: {static}/images/edbi-database-view.png
    :class: pure-img
 
-.. |edbi-help| image:: {filename}/images/edbi-help.png
+.. |edbi-help| image:: {static}/images/edbi-help.png
    :class: pure-img
 
-.. |edbi-query| image:: {filename}/images/edbi-query.png
+.. |edbi-query| image:: {static}/images/edbi-query.png
    :class: pure-img
 

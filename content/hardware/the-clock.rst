@@ -188,15 +188,15 @@ Available from Bitbucket:
 
 https://bitbucket.org/jmercouris/international-clock/overview
 
-.. |IMG_2692| image:: {filename}/images/IMG_2692.jpg
+.. |IMG_2692| image:: {static}/images/IMG_2692.jpg
    :class: pure-img
-.. |IMG_2905| image:: {filename}/images/IMG_29051.jpg
+.. |IMG_2905| image:: {static}/images/IMG_29051.jpg
    :class: pure-img
-.. |IMG_2925| image:: {filename}/images/IMG_2925.jpg
+.. |IMG_2925| image:: {static}/images/IMG_2925.jpg
    :class: pure-img
-.. |IMG_2926| image:: {filename}/images/IMG_2926.jpg
+.. |IMG_2926| image:: {static}/images/IMG_2926.jpg
    :class: pure-img
-.. |IMG_2924| image:: {filename}/images/IMG_2924.jpg
+.. |IMG_2924| image:: {static}/images/IMG_2924.jpg
    :class: pure-img
-.. |IMG_2690| image:: {filename}/images/IMG_2690.jpg
+.. |IMG_2690| image:: {static}/images/IMG_2690.jpg
    :class: pure-img

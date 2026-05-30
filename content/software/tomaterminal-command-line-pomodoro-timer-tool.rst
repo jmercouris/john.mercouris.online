@@ -160,13 +160,13 @@ The Full Source
      progress(i,break_time,'Break Time Elapsed: %s:00' % i)
      alert()
 
-.. |Screen Shot 2015-09-29 at 01.14.42| image:: {filename}/images/Screen-Shot-2015-09-29-at-01.14.42.png
+.. |Screen Shot 2015-09-29 at 01.14.42| image:: {static}/images/Screen-Shot-2015-09-29-at-01.14.42.png
    :class: pure-img
-.. |Screen Shot 2015-09-29 at 00.49.44| image:: {filename}/images/Screen-Shot-2015-09-29-at-00.49.44.png
+.. |Screen Shot 2015-09-29 at 00.49.44| image:: {static}/images/Screen-Shot-2015-09-29-at-00.49.44.png
    :class: pure-img
-.. |Screen Shot 2015-09-29 at 00.49.28| image:: {filename}/images/Screen-Shot-2015-09-29-at-00.49.28.png
+.. |Screen Shot 2015-09-29 at 00.49.28| image:: {static}/images/Screen-Shot-2015-09-29-at-00.49.28.png
    :class: pure-img
-.. |Screen Shot 2015-09-29 at 00.49.32| image:: {filename}/images/Screen-Shot-2015-09-29-at-00.49.32.png
+.. |Screen Shot 2015-09-29 at 00.49.32| image:: {static}/images/Screen-Shot-2015-09-29-at-00.49.32.png
    :class: pure-img
-.. |Screen Shot 2015-09-29 at 00.49.33| image:: {filename}/images/Screen-Shot-2015-09-29-at-00.49.33.png
+.. |Screen Shot 2015-09-29 at 00.49.33| image:: {static}/images/Screen-Shot-2015-09-29-at-00.49.33.png
    :class: pure-img

@@ -676,6 +676,6 @@ front of the sensor. As the technology progresses, this could very well
 become a viable way of presenting. Anyways, I hope you enjoyed, and
 thanks for reading!
 
-.. |Screen Shot 2015-07-15 at 17.19.23| image:: {filename}/images/Screen-Shot-2015-07-15-at-17.19.23.png
+.. |Screen Shot 2015-07-15 at 17.19.23| image:: {static}/images/Screen-Shot-2015-07-15-at-17.19.23.png
    :class: pure-img
 

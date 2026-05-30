@@ -45,9 +45,9 @@ Thanks for Reading!
 
 Hope you enjoyed.
 
-.. |IMG_3588| image:: {filename}/images/IMG_3588.jpg
+.. |IMG_3588| image:: {static}/images/IMG_3588.jpg
    :class: pure-img
-.. |IMG_3589| image:: {filename}/images/IMG_3589.jpg
+.. |IMG_3589| image:: {static}/images/IMG_3589.jpg
    :class: pure-img
-.. |WorldACube| image:: {filename}/images/WorldACube.jpg
+.. |WorldACube| image:: {static}/images/WorldACube.jpg
    :class: pure-img

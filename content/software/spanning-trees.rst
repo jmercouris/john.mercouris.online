@@ -150,17 +150,17 @@ coordinate tasks. Self-stabilizing spanning trees are even more powerful
 and resilient. I hope you learned something interesting! Thanks for
 reading!
 
-.. |Ring| image:: {filename}/images/Ring.png
+.. |Ring| image:: {static}/images/Ring.png
    :class: pure-img
-.. |RingTree| image:: {filename}/images/RingTree.png
+.. |RingTree| image:: {static}/images/RingTree.png
    :class: pure-img
-.. |Mesh| image:: {filename}/images/Mesh.png
+.. |Mesh| image:: {static}/images/Mesh.png
    :class: pure-img
-.. |MeshTree0| image:: {filename}/images/MeshTree0.png
+.. |MeshTree0| image:: {static}/images/MeshTree0.png
    :class: pure-img
-.. |MeshTree1| image:: {filename}/images/MeshTree1.png
+.. |MeshTree1| image:: {static}/images/MeshTree1.png
    :class: pure-img
-.. |Echo| image:: {filename}/images/Echo.mp4
+.. |Echo| image:: {static}/images/Echo.mp4
    :class: pure-img
-.. |Healing| image:: {filename}/images/Healing.mp4
+.. |Healing| image:: {static}/images/Healing.mp4
    :class: pure-img

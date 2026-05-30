@@ -247,19 +247,19 @@ I hope you enjoyed reading this article, and maybe you can also enjoy
 using the program yourself!
 
 
-.. |output| image:: {filename}/images/output.gif
+.. |output| image:: {static}/images/output.gif
    :class: pure-img
-.. |https://en.wikipedia.org/wiki/Alsamixer#/media/File:Alsamixer.png| image:: {filename}/images/Alsamixer.png
+.. |https://en.wikipedia.org/wiki/Alsamixer#/media/File:Alsamixer.png| image:: {static}/images/Alsamixer.png
    :class: pure-img
-.. |Screen Shot 2015-12-05 at 18.38.09| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.38.09.png
+.. |Screen Shot 2015-12-05 at 18.38.09| image:: {static}/images/Screen-Shot-2015-12-05-at-18.38.09.png
    :class: pure-img
-.. |Screen Shot 2015-12-05 at 18.38.17| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.38.17.png
+.. |Screen Shot 2015-12-05 at 18.38.17| image:: {static}/images/Screen-Shot-2015-12-05-at-18.38.17.png
    :class: pure-img
-.. |Screen Shot 2015-12-05 at 18.39.12| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.39.12.png
+.. |Screen Shot 2015-12-05 at 18.39.12| image:: {static}/images/Screen-Shot-2015-12-05-at-18.39.12.png
    :class: pure-img
-.. |Screen Shot 2015-12-05 at 18.49.46| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.49.46png
+.. |Screen Shot 2015-12-05 at 18.49.46| image:: {static}/images/Screen-Shot-2015-12-05-at-18.49.46png
    :class: pure-img
-.. |Screen Shot 2015-12-05 at 18.49.48| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.49.48.png
+.. |Screen Shot 2015-12-05 at 18.49.48| image:: {static}/images/Screen-Shot-2015-12-05-at-18.49.48.png
    :class: pure-img
-.. |Screen Shot 2015-12-05 at 18.49.50| image:: {filename}/images/Screen-Shot-2015-12-05-at-18.49.50.png
+.. |Screen Shot 2015-12-05 at 18.49.50| image:: {static}/images/Screen-Shot-2015-12-05-at-18.49.50.png
    :class: pure-img

@@ -281,23 +281,23 @@ tasted vaguely of cotton candy.
 
 |thumb_IMG_3723_1024|
 
-.. |thumb_IMG_3718_1024| image:: {filename}/images/thumb_IMG_3718_1024.jpg
+.. |thumb_IMG_3718_1024| image:: {static}/images/thumb_IMG_3718_1024.jpg
    :class: pure-img
-.. |file| image:: {filename}/images/file.gif
+.. |file| image:: {static}/images/file.gif
    :class: pure-img
-.. |output| image:: {filename}/images/output.png
+.. |output| image:: {static}/images/output.png
    :class: pure-img
-.. |output 1| image:: {filename}/images/output1.png
+.. |output 1| image:: {static}/images/output1.png
    :class: pure-img
-.. |Screen Shot 2015-06-21 at 13.15.01| image:: {filename}/images/Screen-Shot-2015-06-21-at-13.15.01.png
+.. |Screen Shot 2015-06-21 at 13.15.01| image:: {static}/images/Screen-Shot-2015-06-21-at-13.15.01.png
    :class: pure-img
-.. |Screen Shot 2015-07-01 at 15.14.58| image:: {filename}/images/Screen-Shot-2015-07-01-at-15.14.58.png
+.. |Screen Shot 2015-07-01 at 15.14.58| image:: {static}/images/Screen-Shot-2015-07-01-at-15.14.58.png
    :class: pure-img
-.. |Screen Shot 2015-07-01 at 15.15.09| image:: {filename}/images/Screen-Shot-2015-07-01-at-15.15.09.png
+.. |Screen Shot 2015-07-01 at 15.15.09| image:: {static}/images/Screen-Shot-2015-07-01-at-15.15.09.png
    :class: pure-img
-.. |Screen Shot 2015-07-01 at 15.12.16| image:: {filename}/images/Screen-Shot-2015-07-01-at-15.12.16.png
+.. |Screen Shot 2015-07-01 at 15.12.16| image:: {static}/images/Screen-Shot-2015-07-01-at-15.12.16.png
    :class: pure-img
-.. |thumb_IMG_3721_1024| image:: {filename}/images/thumb_IMG_3721_1024.jpg
+.. |thumb_IMG_3721_1024| image:: {static}/images/thumb_IMG_3721_1024.jpg
    :class: pure-img
-.. |thumb_IMG_3723_1024| image:: {filename}/images/thumb_IMG_3723_1024.jpg
+.. |thumb_IMG_3723_1024| image:: {static}/images/thumb_IMG_3723_1024.jpg
    :class: pure-img

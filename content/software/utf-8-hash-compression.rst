@@ -123,15 +123,15 @@ the bitbucket link below to download/clone it.
 
 `Repository Link <https://bitbucket.org/jmercouris/hash-compression>`__
 
-.. |Screen Shot 2014-07-21 at 23.52.28| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.52.28.png
+.. |Screen Shot 2014-07-21 at 23.52.28| image:: {static}/images/Screen-Shot-2014-07-21-at-23.52.28.png
    :class: pure-imag
-.. |Screen Shot 2014-07-21 at 23.44.19| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.44.19.png
+.. |Screen Shot 2014-07-21 at 23.44.19| image:: {static}/images/Screen-Shot-2014-07-21-at-23.44.19.png
    :class: pure-imag
-.. |Screen Shot 2014-07-21 at 23.44.01| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.44.01.png
+.. |Screen Shot 2014-07-21 at 23.44.01| image:: {static}/images/Screen-Shot-2014-07-21-at-23.44.01.png
    :class: pure-imag
-.. |Screen Shot 2014-07-22 at 0.00.31| image:: {filename}/images/Screen-Shot-2014-07-22-at-0.00.31.png
+.. |Screen Shot 2014-07-22 at 0.00.31| image:: {static}/images/Screen-Shot-2014-07-22-at-0.00.31.png
    :class: pure-imag
-.. |Screen Shot 2014-07-21 at 23.44.58| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.44.58.png
+.. |Screen Shot 2014-07-21 at 23.44.58| image:: {static}/images/Screen-Shot-2014-07-21-at-23.44.58.png
    :class: pure-imag
-.. |Screen Shot 2014-07-21 at 23.46.53| image:: {filename}/images/Screen-Shot-2014-07-21-at-23.46.53.png
+.. |Screen Shot 2014-07-21 at 23.46.53| image:: {static}/images/Screen-Shot-2014-07-21-at-23.46.53.png
    :class: pure-imag

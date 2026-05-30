@@ -14,5 +14,5 @@ Freeze is a track I designed to express what it means to stop and
 focus on what you are doing. That is why the piece features intense
 moments of silence.
 
-Track Download: `File Link <{filename}/files/freeze.m4a>`_
+Track Download: `File Link <{static}/files/freeze.m4a>`_
 

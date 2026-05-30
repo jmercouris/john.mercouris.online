@@ -106,17 +106,17 @@ good retention),
 
 Best of luck!
 
-.. |Duolingo Browser| image:: {filename}/images/IMG_2863.png
+.. |Duolingo Browser| image:: {static}/images/IMG_2863.png
    :class: pure-img
-.. |Duolingo Lesson Topics| image:: {filename}/images/IMG_2864.png
+.. |Duolingo Lesson Topics| image:: {static}/images/IMG_2864.png
    :class: pure-img
-.. |Lesson Example| image:: {filename}/images/IMG_2865.png
+.. |Lesson Example| image:: {static}/images/IMG_2865.png
    :class: pure-img
-.. |Deck View| image:: {filename}/images/Screen-Shot-2014-04-08-at-11.03.34-PM.png
+.. |Deck View| image:: {static}/images/Screen-Shot-2014-04-08-at-11.03.34-PM.png
    :class: pure-img
-.. |Flash Card| image:: {filename}/images/Screen-Shot-2014-04-08-at-11.05.45-PM.png
+.. |Flash Card| image:: {static}/images/Screen-Shot-2014-04-08-at-11.05.45-PM.png
    :class: pure-img
-.. |Statistics| image:: {filename}/images/Screen-Shot-2014-04-08-at-11.03.49-PM.png
+.. |Statistics| image:: {static}/images/Screen-Shot-2014-04-08-at-11.03.49-PM.png
    :class: pure-img
-.. |Card Browser| image:: {filename}/images/Screen-Shot-2014-04-08-at-11.04.08-PM.png
+.. |Card Browser| image:: {static}/images/Screen-Shot-2014-04-08-at-11.04.08-PM.png
    :class: pure-img

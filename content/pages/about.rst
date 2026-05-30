@@ -17,7 +17,7 @@ for developing high quality human interfaces. The projects and
 research I work on center around the idea that we can make
 interactions with our programs beautiful, and logically beautiful.
 
-.. |Me| image:: {filename}/images/john.jpg
+.. |Me| image:: {static}/images/john.jpg
    :class: pure-img
    :width: 300px
    :height: 200px

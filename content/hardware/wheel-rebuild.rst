@@ -118,35 +118,35 @@ flag to aid in visibility. I hope you enjoyed, and thanks for reading!
 
 
 
-.. |wheel_0| image:: {filename}/images/wheel_rebuild_0.jpg
+.. |wheel_0| image:: {static}/images/wheel_rebuild_0.jpg
    :class: pure-img
-.. |wheel_1| image:: {filename}/images/wheel_rebuild_1.jpg
+.. |wheel_1| image:: {static}/images/wheel_rebuild_1.jpg
    :class: pure-img
-.. |wheel_2| image:: {filename}/images/wheel_rebuild_2.jpg
+.. |wheel_2| image:: {static}/images/wheel_rebuild_2.jpg
    :class: pure-img
-.. |wheel_3| image:: {filename}/images/wheel_rebuild_3.jpg
+.. |wheel_3| image:: {static}/images/wheel_rebuild_3.jpg
    :class: pure-img
-.. |wheel_4| image:: {filename}/images/wheel_rebuild_4.jpg
+.. |wheel_4| image:: {static}/images/wheel_rebuild_4.jpg
    :class: pure-img
-.. |wheel_5| image:: {filename}/images/wheel_rebuild_5.jpg
+.. |wheel_5| image:: {static}/images/wheel_rebuild_5.jpg
    :class: pure-img
-.. |wheel_6| image:: {filename}/images/wheel_rebuild_6.jpg
+.. |wheel_6| image:: {static}/images/wheel_rebuild_6.jpg
    :class: pure-img
-.. |wheel_7| image:: {filename}/images/wheel_rebuild_7.jpg
+.. |wheel_7| image:: {static}/images/wheel_rebuild_7.jpg
    :class: pure-img
-.. |wheel_8| image:: {filename}/images/wheel_rebuild_8.jpg
+.. |wheel_8| image:: {static}/images/wheel_rebuild_8.jpg
    :class: pure-img
-.. |wheel_9| image:: {filename}/images/wheel_rebuild_9.jpg
+.. |wheel_9| image:: {static}/images/wheel_rebuild_9.jpg
    :class: pure-img
-.. |wheel_10| image:: {filename}/images/wheel_rebuild_10.jpg
+.. |wheel_10| image:: {static}/images/wheel_rebuild_10.jpg
    :class: pure-img
-.. |wheel_11| image:: {filename}/images/wheel_rebuild_11.jpg
+.. |wheel_11| image:: {static}/images/wheel_rebuild_11.jpg
    :class: pure-img
-.. |wheel_12| image:: {filename}/images/wheel_rebuild_12.jpg
+.. |wheel_12| image:: {static}/images/wheel_rebuild_12.jpg
    :class: pure-img
-.. |wheel_13| image:: {filename}/images/wheel_rebuild_13.jpg
+.. |wheel_13| image:: {static}/images/wheel_rebuild_13.jpg
    :class: pure-img
-.. |wheel_14| image:: {filename}/images/wheel_rebuild_14.jpg
+.. |wheel_14| image:: {static}/images/wheel_rebuild_14.jpg
    :class: pure-img
 
 

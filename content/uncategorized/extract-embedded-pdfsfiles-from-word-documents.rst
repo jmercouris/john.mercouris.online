@@ -69,27 +69,27 @@ cannot be fixed by the standard command line zip tool. Try another tool.
 
 Best of luck!
 
-.. |Screen Shot 2014-10-22 at 18.27.20| image:: {filename}/images/Screen-Shot-2014-10-22-at-18.27.20.png
+.. |Screen Shot 2014-10-22 at 18.27.20| image:: {static}/images/Screen-Shot-2014-10-22-at-18.27.20.png
    :class: pure-img
-   :target: {filename}/images/Screen-Shot-2014-10-22-at-18.27.20.png
-.. |Screen Shot 2014-10-22 at 18.27.39| image:: {filename}/images/Screen-Shot-2014-10-22-at-18.27.39.png
+   :target: {static}/images/Screen-Shot-2014-10-22-at-18.27.20.png
+.. |Screen Shot 2014-10-22 at 18.27.39| image:: {static}/images/Screen-Shot-2014-10-22-at-18.27.39.png
    :class: pure-img
-   :target: {filename}/images/Screen-Shot-2014-10-22-at-18.27.39.png
-.. |Screen Shot 2014-10-22 at 18.27.53| image:: {filename}/images/Screen-Shot-2014-10-22-at-18.27.53.png
+   :target: {static}/images/Screen-Shot-2014-10-22-at-18.27.39.png
+.. |Screen Shot 2014-10-22 at 18.27.53| image:: {static}/images/Screen-Shot-2014-10-22-at-18.27.53.png
    :class: pure-img
-   :target: {filename}/images/Screen-Shot-2014-10-22-at-18.27.53.png
-.. |Screen Shot 2014-10-22 at 18.28.10| image:: {filename}/images/Screen-Shot-2014-10-22-at-18.28.10.png
+   :target: {static}/images/Screen-Shot-2014-10-22-at-18.27.53.png
+.. |Screen Shot 2014-10-22 at 18.28.10| image:: {static}/images/Screen-Shot-2014-10-22-at-18.28.10.png
    :class: pure-img
-   :target: {filename}/images/Screen-Shot-2014-10-22-at-18.28.10.png
-.. |Screen Shot 2014-10-22 at 18.28.12| image:: {filename}/images/Screen-Shot-2014-10-22-at-18.28.12.png
+   :target: {static}/images/Screen-Shot-2014-10-22-at-18.28.10.png
+.. |Screen Shot 2014-10-22 at 18.28.12| image:: {static}/images/Screen-Shot-2014-10-22-at-18.28.12.png
    :class: pure-img
-   :target: {filename}/images/Screen-Shot-2014-10-22-at-18.28.12.png
-.. |Screen Shot 2014-10-22 at 18.28.14| image:: {filename}/images/Screen-Shot-2014-10-22-at-18.28.14.png
+   :target: {static}/images/Screen-Shot-2014-10-22-at-18.28.12.png
+.. |Screen Shot 2014-10-22 at 18.28.14| image:: {static}/images/Screen-Shot-2014-10-22-at-18.28.14.png
    :class: pure-img
-   :target: {filename}/images/Screen-Shot-2014-10-22-at-18.28.14.png
-.. |Screen Shot 2014-10-22 at 18.28.23| image:: {filename}/images/Screen-Shot-2014-10-22-at-18.28.23.png
+   :target: {static}/images/Screen-Shot-2014-10-22-at-18.28.14.png
+.. |Screen Shot 2014-10-22 at 18.28.23| image:: {static}/images/Screen-Shot-2014-10-22-at-18.28.23.png
    :class: pure-img
-   :target: {filename}/images/Screen-Shot-2014-10-22-at-18.28.23.png
-.. |Screen Shot 2014-10-22 at 18.36.03| image:: {filename}/images/Screen-Shot-2014-10-22-at-18.36.03.png
+   :target: {static}/images/Screen-Shot-2014-10-22-at-18.28.23.png
+.. |Screen Shot 2014-10-22 at 18.36.03| image:: {static}/images/Screen-Shot-2014-10-22-at-18.36.03.png
    :class: pure-img
-   :target: {filename}/images/Screen-Shot-2014-10-22-at-18.36.03.png
+   :target: {static}/images/Screen-Shot-2014-10-22-at-18.36.03.png

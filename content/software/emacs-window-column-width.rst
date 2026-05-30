@@ -31,7 +31,7 @@ This function allows us to set the width of a window to an absolute
 value. As a side effect, all other windows may become larger or
 smaller. To demonstrate, let's consider the following scenario:
 
-.. image:: {filename}/images/emacs_window_state_0.png
+.. image:: {static}/images/emacs_window_state_0.png
    :alt: Equal width windows
    :class: pure-img
 
@@ -39,7 +39,7 @@ If we try to make window A equal to N columns, where N is a number
 greater than the current columns wide that window A is, then window A
 will grow bigger, and window B will grow smaller.
 
-.. image:: {filename}/images/emacs_window_state_1.png
+.. image:: {static}/images/emacs_window_state_1.png
    :alt: Window A grew to 80 columns in width, shrinking window B.
    :class: pure-img
 

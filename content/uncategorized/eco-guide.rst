@@ -73,11 +73,11 @@ decisions like this could mean a difference equivalent to installing
 12,000 250 Watt Solar Panels. That's quite a difference.
 
 
-.. |rating_heat| image:: {filename}/images/rating-tdp.png
+.. |rating_heat| image:: {static}/images/rating-tdp.png
    :class: pure-img
 
-.. |power_delta| image:: {filename}/images/power-delta.png
+.. |power_delta| image:: {static}/images/power-delta.png
    :class: pure-img
 
-.. |power_chart| image:: {filename}/images/power-chart.png
+.. |power_chart| image:: {static}/images/power-chart.png
    :class: pure-img

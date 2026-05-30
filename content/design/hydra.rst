@@ -54,33 +54,33 @@ here:
 
 https://github.com/sdegutis/hydra/issues/1
 
-.. |e2465372-094a-11e4-88ab-c74fb487dd7e| image:: {filename}/images/e2465372-094a-11e4-88ab-c74fb487dd7e.png
+.. |e2465372-094a-11e4-88ab-c74fb487dd7e| image:: {static}/images/e2465372-094a-11e4-88ab-c74fb487dd7e.png
    :class: alignnone size-full wp-image-116
    :width: 600px
    :height: 600px
-   :target: {filename}/images/e2465372-094a-11e4-88ab-c74fb487dd7e.png
-.. |5679c2fa-0bc7-11e4-93a1-df2ff3ccf714| image:: {filename}/images/5679c2fa-0bc7-11e4-93a1-df2ff3ccf714.png
+   :target: {static}/images/e2465372-094a-11e4-88ab-c74fb487dd7e.png
+.. |5679c2fa-0bc7-11e4-93a1-df2ff3ccf714| image:: {static}/images/5679c2fa-0bc7-11e4-93a1-df2ff3ccf714.png
    :class: alignnone size-full wp-image-117
    :width: 600px
    :height: 600px
-   :target: {filename}/images/5679c2fa-0bc7-11e4-93a1-df2ff3ccf714.png
-.. |bcd2a062-0bcc-11e4-8632-72b25717f238| image:: {filename}/images/bcd2a062-0bcc-11e4-8632-72b25717f238.png
+   :target: {static}/images/5679c2fa-0bc7-11e4-93a1-df2ff3ccf714.png
+.. |bcd2a062-0bcc-11e4-8632-72b25717f238| image:: {static}/images/bcd2a062-0bcc-11e4-8632-72b25717f238.png
    :class: alignnone size-full wp-image-118
    :width: 600px
    :height: 600px
-   :target: {filename}/images/bcd2a062-0bcc-11e4-8632-72b25717f238.png
-.. |f77fd4b2-0d0e-11e4-9e8c-e3fcbd70d8a2| image:: {filename}/images/f77fd4b2-0d0e-11e4-9e8c-e3fcbd70d8a2.png
+   :target: {static}/images/bcd2a062-0bcc-11e4-8632-72b25717f238.png
+.. |f77fd4b2-0d0e-11e4-9e8c-e3fcbd70d8a2| image:: {static}/images/f77fd4b2-0d0e-11e4-9e8c-e3fcbd70d8a2.png
    :class: alignnone size-full wp-image-119
    :width: 600px
    :height: 600px
-   :target: {filename}/images/f77fd4b2-0d0e-11e4-9e8c-e3fcbd70d8a2.png
-.. |dc9ecbda-126d-11e4-87f4-463adafdb607| image:: {filename}/images/dc9ecbda-126d-11e4-87f4-463adafdb607.png
+   :target: {static}/images/f77fd4b2-0d0e-11e4-9e8c-e3fcbd70d8a2.png
+.. |dc9ecbda-126d-11e4-87f4-463adafdb607| image:: {static}/images/dc9ecbda-126d-11e4-87f4-463adafdb607.png
    :class: alignnone size-full wp-image-120
    :width: 600px
    :height: 600px
-   :target: {filename}/images/dc9ecbda-126d-11e4-87f4-463adafdb607.png
-.. |b913a400-126e-11e4-9613-20085b33f143| image:: {filename}/images/b913a400-126e-11e4-9613-20085b33f143.png
+   :target: {static}/images/dc9ecbda-126d-11e4-87f4-463adafdb607.png
+.. |b913a400-126e-11e4-9613-20085b33f143| image:: {static}/images/b913a400-126e-11e4-9613-20085b33f143.png
    :class: alignnone size-full wp-image-121
    :width: 600px
    :height: 600px
-   :target: {filename}/images/b913a400-126e-11e4-9613-20085b33f143.png
+   :target: {static}/images/b913a400-126e-11e4-9613-20085b33f143.png

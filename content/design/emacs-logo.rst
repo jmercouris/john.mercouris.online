@@ -76,13 +76,13 @@ Finally, just for fun, a traditional Emacs purple verison:
 
 Thank you for reading, I hope you enjoyed.
 
-.. |lisp_logo_big| image:: {filename}/images/LISP_logo_big.png
+.. |lisp_logo_big| image:: {static}/images/LISP_logo_big.png
    :class: pure-img
-.. |elisp_logo| image:: {filename}/images/elisp_logo.png
+.. |elisp_logo| image:: {static}/images/elisp_logo.png
    :class: pure-img
-.. |elisp_logo_inverted| image:: {filename}/images/elisp_logo_inverted.png
+.. |elisp_logo_inverted| image:: {static}/images/elisp_logo_inverted.png
    :class: pure-img
-.. |elisp_logo_white| image:: {filename}/images/elisp_logo_white.png
+.. |elisp_logo_white| image:: {static}/images/elisp_logo_white.png
    :class: pure-img
-.. |elisp_logo_purple| image:: {filename}/images/elisp_logo_purple.png
+.. |elisp_logo_purple| image:: {static}/images/elisp_logo_purple.png
    :class: pure-img

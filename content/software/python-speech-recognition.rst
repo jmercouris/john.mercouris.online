@@ -91,5 +91,5 @@ Demonstration
 Finally, with a few simple lines of code joining everything together, I
 was off the ground quickly with a complete demonstration.
 
-.. |window_sample_text| image:: {filename}/images/window_sample_text.png
+.. |window_sample_text| image:: {static}/images/window_sample_text.png
    :class: pure-img

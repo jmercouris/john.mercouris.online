@@ -160,11 +160,11 @@ followers similar mnemonics.
 You can always find more on the help screen :code:`C-a ?`. Best of
 luck!
 
-.. |Screen Shot 2014-06-23 at 9.33.22 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.33.22-PM.png
+.. |Screen Shot 2014-06-23 at 9.33.22 PM| image:: {static}/images/Screen-Shot-2014-06-23-at-9.33.22-PM.png
    :class: pure-img
-.. |Screen Shot 2014-06-23 at 9.37.12 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.37.12-PM.png
+.. |Screen Shot 2014-06-23 at 9.37.12 PM| image:: {static}/images/Screen-Shot-2014-06-23-at-9.37.12-PM.png
    :class: pure-img
-.. |Screen Shot 2014-06-23 at 9.38.06 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.38.06-PM.png
+.. |Screen Shot 2014-06-23 at 9.38.06 PM| image:: {static}/images/Screen-Shot-2014-06-23-at-9.38.06-PM.png
    :class: pure-img
-.. |Screen Shot 2014-06-23 at 9.40.17 PM| image:: {filename}/images/Screen-Shot-2014-06-23-at-9.40.17-PM.png
+.. |Screen Shot 2014-06-23 at 9.40.17 PM| image:: {static}/images/Screen-Shot-2014-06-23-at-9.40.17-PM.png
    :class: pure-img

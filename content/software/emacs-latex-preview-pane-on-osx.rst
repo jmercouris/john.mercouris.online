@@ -61,5 +61,5 @@ buffer (without opening a separate pane).
 
 Thanks for reading!
 
-.. |Screen-Shot-2016-07-11-at-11.49.31.png| image:: {filename}/images/Screen-Shot-2016-07-11-at-11.49.31.png
+.. |Screen-Shot-2016-07-11-at-11.49.31.png| image:: {static}/images/Screen-Shot-2016-07-11-at-11.49.31.png
    :class: pure-img
