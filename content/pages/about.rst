@@ -214,26 +214,14 @@ Programming Languages
 ------------------------------------------------------------------------
 - Python
 - Lisp
-- Java
-- Objective-C
 - C
-- C#
-
 
 Frameworks, Operating Systems & Tools
 ------------------------------------------------------------------------
-- MacOS, FreeBSD, Emacs, Linux
-- Saltstack
-- Android
-- iOS
-- Pyramid
-- Django
-- Cocos2d
-- Xbox XNA
-- Xamarin
+- Emacs, Linux
 
 Version Control
 ------------------------------------------------------------------------
 - Git
-- Mercurial
+
 
